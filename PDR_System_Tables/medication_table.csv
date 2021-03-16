@@ -1,0 +1,3445 @@
+medication_id,medication_name
+130001,Abacavir Sulfate
+130002,Abarelix
+130003,Abatacept
+130004,Abilify
+130005,Acarbose
+130006,Abraxane
+130007,Actonel
+130008,Actos
+130009,Acular
+130010,Acuvail
+130011,Acyclovir
+130012,Allegra
+130013,Alli
+130014,Allopurinol
+130015,Dalmane
+130016,Dalteparin
+130017,Danazol
+130018,Dapsone
+130019,Daptacel
+130020,Dacarbazine
+130021,Dacogen
+130022,Paclitaxel
+130023,Palifermin
+130024,A / B Otic
+130025,A + D Cracked Skin Relief
+130026,Abacavir / dolutegravir / lamivudine
+130027,Abacavir / lamivudine / zidovudine
+130030,Abilify Discmelt
+130031,Abilify Maintena
+130032,Abiraterone
+130033,AbobotulinumtoxinA
+130035,Abreva
+130036,Absorbine Jr.
+130037,Absorica
+130038,Acamprosate
+130039,Acanya
+130041,Accolate
+130042,Accupril
+130043,Accutane
+130044,Acebutolol
+130045,Acetaminophen
+130046,Acetaminophen / aspirin
+130047,Acetaminophen / aspirin / caffeine
+130048,Acetaminophen / aspirin / caffeine / salicylamide
+130049,Acetaminophen / butalbital
+130050,Acetaminophen / butalbital / caffeine
+130051,Acetaminophen / butalbital / caffeine / codeine
+130052,Acetaminophen / caffeine
+130053,Acetaminophen / caffeine / dihydrocodeine
+130054,Acetaminophen / caffeine / isometheptene mucate
+130055,Acetaminophen / caffeine / magnesium salicylate
+130056,Acetaminophen / caffeine / pyrilamine
+130057,Acetaminophen / chlorpheniramine
+130058,Acetaminophen / chlorpheniramine / phenylephrine
+130059,Acetaminophen / codeine
+130060,Acetaminophen / dexbrompheniramine / pseudoephedrine
+130061,Acetaminophen / dextromethorphan / doxylamine
+130062,Acetaminophen / dextromethorphan / doxylamine / pseudoephedrine
+130063,Acetaminophen / dextromethorphan / phenylephrine
+130064,Acetaminophen / dichloralphenazone / isometheptene mucate
+130065,Acetaminophen / diphenhydramine
+130066,Acetaminophen / diphenhydramine / phenylephrine
+130067,Acetaminophen / hydrocodone
+130068,Acetaminophen / oxycodone
+130069,Acetaminophen / pamabrom
+130070,Acetaminophen / pamabrom / pyrilamine
+130071,Acetaminophen / pentazocine
+130072,Acetaminophen / phenylephrine
+130073,Acetaminophen / phenyltoloxamine
+130074,Acetaminophen / propoxyphene
+130075,Acetaminophen / pseudoephedrine
+130076,Acetaminophen / tramadol
+130077,Acetazolamide
+130078,Acetic acid
+130079,Acetic acid / antipyrine / benzocaine / polycosanol
+130080,Acetohydroxamic acid
+130081,Acetylcysteine
+130082,Acidophilus
+130083,Aciphex
+130084,Acitretin
+130085,Aclidinium
+130086,Acrivastine / pseudoephedrine
+130087,Actemra
+130088,Acthar
+130089,Acticlate
+130090,Actifed
+130091,Actiq
+130092,Activella
+130094,Actonel with Calcium
+130095,ActoPlus Met
+130098,Acyclovir / hydrocortisone
+130099,Aczone
+130100,Adalimumab
+130101,Adapalene
+130102,Adapalene / benzoyl peroxide
+130103,Adcirca
+130104,Adderall
+130105,Adderall XR
+130106,Addyi
+130107,Adempas
+130108,Adenosine
+130109,Adipex-P
+130110,Adoxa
+130111,Adriamycin
+130112,Advair Diskus
+130113,Advair HFA
+130114,Advate
+130115,Advil
+130116,Advil Cold and Sinus
+130117,Advil Cold and Sinus Liqui-Gels
+130118,Advil Liqui-Gels
+130119,Advil Migraine
+130120,Advil PM
+130121,Adzenys XR-ODT
+130122,Aerobid-M
+130123,Afatinib
+130124,Afinitor
+130125,Aflibercept
+130126,Afrezza
+130127,Afrin
+130128,Afrin 4 Hour Extra Moisturizing
+130129,Afrin NoDrip Sinus
+130130,Afrin Original
+130131,Afrin Sinus
+130132,Aftera
+130133,Aggrenox
+130134,AirDuo Respiclick
+130135,Alamast
+130136,Ala-Quin
+130137,Alavert
+130138,Alavert D-12 Hour Allergy and Sinus
+130139,Albendazole
+130140,Albiglutide
+130141,Albuterol
+130142,Albuterol / ipratropium
+130143,Alcaftadine
+130144,Alclometasone
+130145,Alcortin A
+130146,Aldactazide
+130147,Aldactone
+130148,Aldara
+130149,Aldomet
+130150,Alefacept
+130151,Alemtuzumab
+130152,Alendronate
+130153,Alesse
+130154,Aleve
+130155,Aleve-D Sinus & Cold
+130156,Alfuzosin
+130157,Alimta
+130158,Alirocumab
+130159,Aliskiren
+130160,Aliskiren / hydrochlorothiazide
+130161,Alka-Seltzer Cold and Sinus
+130162,Alka-Seltzer Plus Cold
+130163,Alka-Seltzer Plus Cold Formula Sparkling Original Effervescent Tablets
+130164,All Day Allergy
+130165,Allantoin / camphor / phenol
+130167,Allegra Allergy
+130168,Allegra ODT
+130169,Allegra-D 12 Hour
+130170,Allegra-D 24 Hour
+130171,Aller-Ease
+130172,Allerx Dose Pack DF
+130175,Almotriptan
+130176,Alocril
+130177,Aloe vera
+130178,Aloe vera / hydrocortisone / iodoquinol
+130179,Alogliptin
+130180,Alogliptin / metformin
+130181,Aloprim
+130182,Alosetron
+130183,Aloxi
+130184,Alpha 1-proteinase inhibitor
+130185,Alphagan P
+130186,Alphanine SD
+130187,Alprazolam
+130188,Alprazolam Intensol
+130189,Alprostadil
+130190,Alrex
+130191,Alsuma
+130192,Altabax
+130193,Altace
+130194,Altavera
+130195,Altoprev
+130196,Altretamine
+130197,Aluminum chloride hexahydrate
+130198,Aluminum hydroxide / magnesium hydroxide / simethicone
+130199,Aluminum hydroxide / magnesium trisilicate
+130200,Alupent
+130201,Alvesco
+130202,Alyacen 1 / 35
+130203,Amantadine
+130204,Amaryl
+130205,Ambien
+130206,Ambien CR
+130207,Ambrisentan
+130208,Amerge
+130209,Amethia
+130210,Amethia Lo
+130211,Amethyst
+130212,Amevive
+130213,Amikacin
+130214,Amikin
+130215,Amiloride
+130216,Amino acids
+130217,Amiodarone
+130218,Amitiza
+130219,Amitriptyline
+130220,Amitriptyline / chlordiazepoxide
+130221,Amitriptyline / perphenazine
+130222,AmLactin
+130223,Amlodipine
+130224,Amlodipine / atorvastatin
+130225,Amlodipine / benazepril
+130226,Amlodipine / hydrochlorothiazide / olmesartan
+130227,Amlodipine / hydrochlorothiazide / valsartan
+130228,Amlodipine / olmesartan
+130229,Amlodipine / telmisartan
+130230,Amlodipine / valsartan
+130231,Ammonium lactate
+130232,Amnesteem
+130233,Amoxapine
+130234,Amoxicillin
+130235,Amoxicillin / clarithromycin / lansoprazole
+130236,Amoxicillin / clavulanate
+130237,Amoxil
+130238,Amphetamine
+130239,Amphetamine / dextroamphetamine
+130240,Ampicillin
+130241,Ampicillin / sulbactam
+130242,Ampyra
+130243,Amrix
+130244,Anafranil
+130245,Anakinra
+130246,Analpram-HC
+130247,Anaprox
+130248,Anaprox-DS
+130249,Anastrozole
+130250,Androderm
+130251,AndroGel
+130252,Anexsia
+130253,Angeliq
+130254,Anoro Ellipta
+130255,Ansaid
+130256,Antabuse
+130257,Antihemophilic factor
+130258,Antihemophilic factor / von willebrand factor
+130259,Antipyrine / benzocaine
+130260,Antivert
+130261,Anturol
+130262,Anucort-HC
+130263,Anusol-HC Suppositories
+130264,Apixaban
+130265,Aplenzin
+130266,Apokyn
+130267,Apomorphine
+130268,Apremilast
+130269,Aprepitant
+130270,Apri
+130271,Apriso
+130272,Aptensio XR
+130273,Aptiom
+130274,Aquavite-E
+130275,Aquoral
+130276,Aranesp
+130277,Arava
+130278,Arcalyst
+130279,Arformoterol
+130280,Arginine
+130281,Aricept
+130282,Aricept ODT
+130283,Arimidex
+130284,Aripiprazole
+130285,Aristocort
+130286,Arixtra
+130287,Armodafinil
+130288,Armour Thyroid
+130289,Arnuity Ellipta
+130290,Aromasin
+130291,Arsenic trioxide
+130292,Artane
+130293,Artemether / lumefantrine
+130294,Arthrotec
+130295,Asacol
+130296,Asacol HD
+130297,Ascomp with Codeine
+130298,Ascorbic acid
+130299,Asenapine
+130300,Asendin
+130301,Ashlyna
+130302,Asmanex Twisthaler
+130303,Aspirin
+130304,Aspirin / butalbital / caffeine
+130305,Aspirin / butalbital / caffeine / codeine
+130306,Aspirin / caffeine
+130307,Aspirin / caffeine / orphenadrine
+130308,Aspirin / caffeine / salicylamide
+130309,Aspirin / carisoprodol
+130310,Aspirin / carisoprodol / codeine
+130311,Aspirin / chlorpheniramine / phenylephrine
+130312,Aspirin / diphenhydramine
+130313,Aspirin / dipyridamole
+130314,Aspirin / oxycodone
+130315,Astelin
+130316,Astepro
+130317,Asthmanefrin
+130318,Atacand
+130319,Atarax
+130320,Atazanavir
+130321,Atelvia
+130322,Atenolol
+130323,Atenolol / chlorthalidone
+130324,Ativan
+130325,Atomoxetine
+130326,Atorvastatin
+130327,Atovaquone
+130328,Atovaquone / proguanil
+130329,Atralin
+130330,Atripla
+130331,Atropine
+130332,Atropine / difenoxin
+130333,Atropine / diphenoxylate
+130334,Atropine / hyoscyamine / phenobarbital / scopolamine
+130335,Atrovent
+130336,Atrovent HFA
+130337,Atrovent Nasal
+130338,Attapulgite
+130339,Aubagio
+130340,Aubra
+130341,Augmentin
+130342,Augmentin ES-600
+130343,Augmentin XR
+130344,Auranofin
+130345,Auryxia
+130346,Avalide
+130347,Avanafil
+130348,Avandamet
+130349,Avandia
+130350,Avapro
+130351,Avar
+130352,Avar LS Cleanser
+130353,Avastin
+130354,Aveed
+130355,Aveeno
+130356,Avelox
+130357,Aventyl Hydrochloride
+130358,Aviane
+130359,Avinza
+130360,Avita
+130361,Avodart
+130362,Avonex
+130363,Avonex Pen
+130364,Axert
+130365,Axid
+130366,Axid AR
+130367,Axiron
+130368,Aygestin
+130369,Ayr Saline Nasal
+130370,Azacitidine
+130371,Azasan
+130372,Azasite
+130373,Azathioprine
+130374,Azelaic acid
+130375,Azelastine
+130376,Azelastine / fluticasone
+130377,Azelex
+130378,Azilect
+130379,Azilsartan medoxomil
+130380,Azilsartan medoxomil / chlorthalidone
+130381,Azithromycin
+130382,Azithromycin Dose Pack
+130383,Azmacort
+130384,Azo Urinary Pain Relief
+130385,Azo-Cranberry
+130386,Azor
+130387,Azo-Standard
+130388,Azulfidine
+130389,Azurette
+130390,B3-500-Gr
+130391,Bacitracin
+130392,Bacitracin / neomycin / polymyxin b
+130393,Bacitracin / neomycin / polymyxin b / pramoxine
+130394,Bacitracin / polymyxin b
+130395,Baclofen
+130396,Bactrim
+130397,Bactrim DS
+130398,Bactroban
+130399,Bag Balm
+130400,Balsalazide
+130401,Balsam peru / castor oil / trypsin
+130402,Balziva
+130403,Banzel
+130404,Barium sulfate
+130405,Basaglar
+130406,Bayer Aspirin
+130407,Bayer Children's Aspirin
+130408,Bazedoxifene / conjugated estrogens
+130409,BC Fast Pain Relief
+130410,Beclomethasone
+130411,Beconase AQ
+130412,Bee pollen
+130413,Belbuca
+130414,Belimumab
+130415,Belladonna
+130416,Belladonna / opium
+130417,Belladonna Tincture
+130418,Belsomra
+130419,Belviq
+130420,Belviq XR
+130421,Benadryl
+130422,Benadryl Allergy
+130423,Benadryl Allergy Sinus
+130424,Benazepril
+130425,Bendamustine
+130426,Bendroflumethiazide / nadolol
+130427,BeneFix
+130428,Benemid
+130429,Benicar
+130430,Benicar HCT
+130431,Benlysta
+130432,Bensal HP
+130433,Bentyl
+130434,Benzaclin
+130435,Benzalkonium chloride / lidocaine
+130436,Benzamycin
+130437,BenzEFoam
+130438,Benzocaine
+130439,Benzoic acid / salicylic acid
+130440,Benzonatate
+130441,Benzoyl peroxide
+130442,Benzoyl peroxide / clindamycin
+130443,Benzoyl peroxide / erythromycin
+130444,Benzoyl peroxide / hydrocortisone
+130445,Benzoyl peroxide / salicylic acid
+130446,Benzoyl peroxide / sulfur
+130447,Benzphetamine
+130448,Benztropine
+130449,Benzyl alcohol
+130450,Bepotastine
+130451,Bepreve
+130452,Besifloxacin
+130453,Besivance
+130454,Betadine Aerosol Spray
+130455,Betamethasone
+130456,Betamethasone / calcipotriene
+130457,Betapace AF
+130458,Betaseron
+130459,Bethanechol
+130460,Bevacizumab
+130461,Bexarotene
+130462,Bextra
+130463,Beyaz
+130464,Biafine
+130465,Biaxin
+130466,Biaxin XL
+130467,Bicalutamide
+130468,Bicillin L-A
+130469,BiDil
+130470,Bifidobacterium infantis / lactobacillus acidophilus
+130471,Biltricide
+130472,Bimatoprost
+130473,Bioflavonoids
+130474,Biotene Mouthwash
+130475,Biotin
+130476,Bisacodyl
+130477,Bisacodyl / polyethylene glycol 3350 / potassium chloride / sodium bicarbonate / sodium chloride
+130478,Bismuth subcitrate potassium / metronidazole / tetracycline
+130479,Bismuth subsalicylate
+130480,Bisoprolol
+130481,Bisoprolol / hydrochlorothiazide
+130482,Bivalirudin
+130483,Blephamide
+130484,Blisovi 24 Fe
+130485,Blisovi Fe 1 / 20
+130486,Blisovi Fe 1.5 / 30
+130487,Blistex
+130488,Blistex Lip Balm
+130489,Boceprevir
+130490,Bonine
+130491,Boniva
+130492,Bontril PDM
+130493,Bontril Slow Release
+130494,Bortezomib
+130495,Bosentan
+130496,Bosulif
+130497,Botox
+130498,Botox Cosmetic
+130499,Botulinum toxin type b
+130500,Boudreaux Butt Paste
+130501,BP Wash
+130502,Breo Ellipta
+130503,Brethine
+130504,Brexpiprazole
+130505,Briellyn
+130506,Brilinta
+130507,Brimonidine
+130508,Brimonidine / brinzolamide
+130509,Brimonidine / timolol
+130510,Brinzolamide
+130511,Brisdelle
+130512,Brivaracetam
+130513,Briviact
+130514,Brodalumab
+130515,Bromfed DM
+130516,Bromfenac
+130517,Bromocriptine
+130518,Brompheniramine
+130519,Brompheniramine / codeine / phenylephrine
+130520,Brompheniramine / dextromethorphan / phenylephrine
+130521,Brompheniramine / dextromethorphan / pseudoephedrine
+130522,Brompheniramine / pseudoephedrine
+130523,Bronkaid
+130524,Brovana
+130525,BroveX PEB DM
+130526,Buckleys Mixture
+130527,Budeprion SR
+130528,Budeprion XL
+130529,Budesonide
+130530,Budesonide / formoterol
+130531,Bumetanide
+130532,Bumex
+130533,Bunavail
+130534,Bupap
+130535,Bupivacaine
+130536,Bupivacaine liposome
+130537,Buprenex
+130538,Buprenorphine
+130539,Buprenorphine / naloxone
+130540,Buproban
+130541,Bupropion
+130542,Bupropion / naltrexone
+130543,BuSpar
+130544,Buspirone
+130545,Busulfan
+130546,Butabarbital
+130547,Butalbital Compound
+130548,Butisol Sodium
+130549,Butoconazole
+130550,Butorphanol
+130551,Butrans
+130552,Bydureon
+130553,Byetta
+130554,Bystolic
+130555,C1 esterase inhibitor (human)
+130556,Cabergoline
+130557,Cabozantinib
+130558,Caduet
+130559,Cafergot
+130560,Caffeine
+130561,Caffeine / ergotamine
+130562,Calamine
+130563,Calan
+130564,Calan SR
+130565,Calcifediol
+130566,Calcipotriene
+130567,Calcitonin
+130568,Calcitriol
+130569,Calcium / vitamin d
+130570,Calcium acetate
+130571,Calcium carbonate
+130572,Calcium carbonate / risedronate
+130573,Calcium carbonate / simethicone
+130574,Calmoseptine
+130575,CaloMist
+130576,Cambia
+130577,Camila
+130578,Camphor / menthol
+130579,Campral
+130580,Camptosar
+130581,Camrese
+130582,CamreseLo
+130583,Canagliflozin
+130584,Canasa
+130585,Canasa Pac
+130586,Candesartan
+130587,Capecitabine
+130588,Capex
+130589,Capmist DM
+130590,Capsaicin
+130591,Capsin
+130592,Captopril
+130593,Capzasin
+130594,Capzasin-HP
+130595,Capzasin-P
+130596,Carac
+130597,Carafate
+130598,Carbamazepine
+130599,Carbamide peroxide
+130600,Carbatrol
+130601,Carbidopa / entacapone / levodopa
+130602,Carbidopa / levodopa
+130603,Carbinoxamine
+130604,Carboplatin
+130605,Cardizem
+130606,Cardizem CD
+130607,Cardizem LA
+130608,Cardura
+130609,Cardura XL
+130610,Carfilzomib
+130611,Cariprazine
+130612,Carisoprodol
+130613,Carmol 20
+130614,Cartia XT
+130615,Carvedilol
+130616,Casodex
+130617,Cataflam
+130618,Catapres
+130619,Catapres-TTS
+130620,Caverject
+130621,Caverject Impulse
+130622,Caziant
+130623,Cedax
+130624,Cefazolin
+130625,Cefdinir
+130626,Cefditoren
+130627,Cefixime
+130628,Cefotaxime
+130629,Cefpodoxime
+130630,Cefprozil
+130631,Ceftibuten
+130632,Ceftin
+130633,Ceftriaxone
+130634,Cefuroxime
+130635,Cefzil
+130636,Celebrex
+130637,Celecoxib
+130638,Celexa
+130639,CellCept
+130640,Cenestin
+130641,Cepacol Dual Relief Sore Throat
+130642,Cephalexin
+130643,Cerefolin NAC
+130644,Cerezyme
+130645,Certolizumab
+130646,Cervidil
+130647,Cesamet
+130648,Cetaphil Lotion
+130649,Cetirizine
+130650,Cetirizine / pseudoephedrine
+130651,Cetuximab
+130652,Cevimeline
+130653,Chantix
+130654,Chaparral
+130655,Chateal
+130656,Cheratussin AC
+130657,Cheratussin DAC
+130658,Children's Claritin Allergy
+130659,Children's Motrin
+130660,Chlophedianol / guaifenesin / pseudoephedrine
+130661,Chloral hydrate
+130662,Chlorambucil
+130663,Chloramphenicol
+130664,Chloraseptic Sore Throat Spray
+130665,Chlorcyclizine / phenylephrine
+130666,Chlordiazepoxide
+130667,Chlordiazepoxide / clidinium
+130668,Chlorhexidine
+130669,Chlorothiazide
+130670,Chlorpheniramine
+130671,Chlorpheniramine / dextromethorphan
+130672,Chlorpheniramine / dextromethorphan / phenylephrine
+130673,Chlorpheniramine / dextromethorphan / pseudoephedrine
+130674,Chlorpheniramine / hydrocodone
+130675,Chlorpheniramine / hydrocodone / phenylephrine
+130676,Chlorpheniramine / hydrocodone / pseudoephedrine
+130677,Chlorpheniramine / methscopolamine / phenylephrine
+130678,Chlorpheniramine / methscopolamine / pseudoephedrine
+130679,Chlorpheniramine / phenylephrine
+130680,Chlorpheniramine / pseudoephedrine
+130681,Chlorpromazine
+130682,Chlorthalidone
+130683,Chlor-Trimeton
+130684,Chlorzoxazone
+130685,Cholecalciferol
+130686,Cholecalciferol / folic acid
+130687,Cholestyramine
+130688,Cholestyramine Light
+130689,Chondroitin / glucosamine
+130690,Chondroitin / glucosamine / methylsulfonylmethane
+130691,Chorionic gonadotropin (hcg)
+130692,Chromium picolinate
+130693,Cialis
+130694,Ciclesonide
+130695,Ciclodan
+130696,Ciclopirox
+130697,Cilostazol
+130698,Cimetidine
+130699,Cimzia
+130700,Cinacalcet
+130701,Cinqair
+130702,Cinryze
+130703,Cipro
+130704,Ciprodex
+130705,Ciprofloxacin
+130706,Ciprofloxacin / dexamethasone
+130707,Cisplatin
+130708,Citalopram
+130709,CitraNatal 90 DHA
+130710,CitraNatal Assure
+130711,Citrate of Magnesia
+130712,Citric acid / magnesium oxide / sodium picosulfate
+130713,Citric acid / potassium citrate
+130714,Citric acid / simethicone / sodium bicarbonate
+130715,Cladribine
+130716,Claravis
+130717,Clarifoam EF
+130718,Clarinex
+130719,Clarinex-D 12 Hour
+130720,Clarithromycin
+130721,Claritin
+130722,Claritin-D
+130723,Claritin-D 12 Hour
+130724,Claritin-D 24 Hour
+130725,ClearLax
+130726,Clemastine
+130727,Cleocin
+130728,Cleocin HCl
+130729,Cleocin Ovules
+130730,Climara
+130731,Climara Pro
+130732,Clindagel
+130733,Clindamax
+130734,Clindamycin
+130735,Clindamycin / tretinoin
+130736,Clindesse
+130737,Clinoril
+130738,Clinpro 5000
+130739,Clioquinol
+130740,Clioquinol / hydrocortisone
+130741,Clobazam
+130742,Clobetasol
+130743,Clobex
+130744,Clocortolone
+130745,Cloderm
+130746,Clomid
+130747,Clomiphene
+130748,Clomipramine
+130749,Clonazepam
+130750,Clonidine
+130751,Clopidogrel
+130752,Clorazepate
+130753,Clotrimazole
+130754,Clove
+130755,Clozapine
+130756,Clozaril
+130757,Coagulation factor ix
+130758,Coal tar
+130759,Coal tar / salicylic acid / sulfur
+130760,Coartem
+130761,Cobicistat / darunavir
+130762,Cobicistat / elvitegravir / emtricitabine / tenofovir
+130763,Cobicistat / elvitegravir / emtricitabine / tenofovir alafenamide
+130764,Codeine
+130765,Codeine / guaifenesin
+130766,Codeine / guaifenesin / pseudoephedrine
+130767,Codeine / promethazine
+130768,Codimal DM
+130769,Coenzyme Q10
+130770,Cogentin
+130771,Colace
+130772,Colazal
+130773,Colchicine
+130774,Colchicine / probenecid
+130775,Colcrys
+130776,Colesevelam
+130777,Collagenase
+130778,Collagenase clostridium histolyticum
+130779,Colyte
+130780,Combigan
+130781,CombiPatch
+130782,Combivent
+130783,Combivent Respimat
+130784,Combivir
+130785,Cometriq
+130786,Commit
+130787,Compazine
+130788,Complera
+130789,Compoz Nighttime Sleep Aid
+130790,Compro
+130791,Comtan
+130792,Concept DHA
+130793,Concerta
+130794,Condylox
+130795,Conestat alfa
+130796,Conivaptan
+130797,Conjugated estrogens
+130798,Conjugated estrogens / medroxyprogesterone
+130799,Constulose
+130800,Contrave
+130801,Copaxone
+130802,Copegus
+130803,Copper
+130804,CoQ10
+130805,Cordarone
+130806,Cordran Tape
+130807,Coreg
+130808,Coreg CR
+130809,Corgard
+130810,Coricidin HBP Cold & Flu
+130811,Coricidin HBP Cough & Cold
+130812,Corn Huskers Lotion
+130813,Correctol
+130814,Cortef
+130815,Cortenema
+130816,Corticotropin
+130817,Cortisone
+130818,Cortizone-10
+130819,Corzide 80 / 5
+130820,Cosamin DS
+130821,Cosentyx
+130822,Cosopt
+130823,Co-trimoxazole
+130824,Coumadin
+130825,Cozaar
+130826,Cranberry
+130827,Creatine
+130828,Creon
+130829,Crestor
+130830,Crinone
+130831,Crisaborole
+130832,Crizotinib
+130833,Cromolyn
+130834,Crotamiton
+130835,Cryselle
+130836,Cubicin
+130837,Cutar
+130838,Cutivate
+130839,Cuvitru
+130840,Cyanocobalamin
+130841,Cyclafem 1 / 35
+130842,Cyclessa
+130843,Cyclizine
+130844,Cyclobenzaprine
+130845,Cyclopentolate
+130846,Cyclophosphamide
+130847,Cyclosporine
+130848,Cyklokapron
+130849,Cylert
+130850,Cymbalta
+130851,Cyproheptadine
+130852,Cyred
+130853,Cytomel
+130854,Cytotec
+130855,Cytoxan
+130856,Cytra-K
+130857,D.H.E. 45
+130858,D3
+130859,Dabigatran
+130860,Dabrafenib
+130861,Daclatasvir
+130862,Daklinza
+130863,Dalfampridine
+130864,Daliresp
+130865,Dallergy
+130868,Damiana
+130870,Danocrine
+130871,Dantrium
+130872,Dantrolene
+130873,Dapagliflozin
+130874,Dapagliflozin / metformin
+130876,Daptomycin
+130877,Daraprim
+130878,Darbepoetin alfa
+130879,Darifenacin
+130880,Darunavir
+130881,Darvocet A500
+130882,Darvocet-N 50
+130883,Darvon
+130884,Dasabuvir / ombitasvir / paritaprevir / ritonavir
+130885,Dasatinib
+130886,Dasetta 1 / 35
+130887,Dasetta 7 / 7 / 7
+130888,Daypro
+130889,Daytrana
+130890,Dazidox
+130891,DDAVP
+130892,DDAVP Nasal
+130893,Debrox
+130894,Decadron
+130895,Declomycin
+130896,Deconamine
+130897,Degarelix
+130898,Dehydroepiandrosterone
+130899,Delatestryl
+130900,Delsym
+130901,Delsym 12 Hour Cough Relief
+130902,Deltasone
+130903,Delzicol
+130904,Demeclocycline
+130905,Demerol
+130906,Denavir
+130907,Denosumab
+130908,Depakene
+130909,Depakote
+130910,Depakote ER
+130911,Depakote Sprinkles
+130912,Deplin
+130913,Depo-Medrol
+130914,Depo-Provera
+130915,Depo-Provera Contraceptive
+130916,depo-subQ provera 104
+130917,Depo-Testosterone
+130918,Dermal filler
+130919,Dermatop
+130920,DermaZinc Shampoo
+130921,Desipramine
+130922,Desloratadine
+130923,Desloratadine / pseudoephedrine
+130924,Desmopressin
+130925,Desogen
+130926,Desogestrel / ethinyl estradiol
+130927,Desonate
+130928,Desonide
+130929,DesOwen
+130930,Desoximetasone
+130931,Desoxyn
+130932,Desvenlafaxine
+130933,Desyrel
+130934,Desyrel Dividose
+130935,Detrol
+130936,Detrol LA
+130937,Devrom
+130938,Dexamethasone
+130939,Dexamethasone / neomycin / polymyxin b
+130940,Dexamethasone / tobramycin
+130941,Dexamethasone Intensol
+130942,Dexasone
+130943,Dexbrompheniramine / pseudoephedrine
+130944,Dexchlorpheniramine
+130945,Dexchlorpheniramine / dextromethorphan / pseudoephedrine
+130946,Dexedrine
+130947,Dexilant
+130948,Dexlansoprazole
+130949,Dexmethylphenidate
+130950,Dexpak Taperpak
+130951,Dexpanthenol
+130952,Dextroamphetamine
+130953,Dextromethorphan
+130954,Dextromethorphan / guaifenesin
+130955,Dextromethorphan / guaifenesin / phenylephrine
+130956,Dextromethorphan / guaifenesin / pseudoephedrine
+130957,Dextromethorphan / phenylephrine / pyrilamine
+130958,Dextromethorphan / promethazine
+130959,Dextromethorphan / quinidine
+130960,Dextrostat
+130961,Diamox
+130962,Diamox Sequels
+130963,Diastat
+130964,Diastat AcuDial
+130965,Diazepam
+130966,Diazepam Intensol
+130967,Diazoxide
+130968,Dibucaine
+130969,Dichlorphenamide
+130970,Diclegis
+130971,Diclofenac
+130972,Diclofenac / misoprostol
+130973,Dicloxacillin
+130974,Dicyclomine
+130975,Didrex
+130976,Dienogest / estradiol
+130977,Diethylpropion
+130978,Differin
+130979,Dificid
+130980,Diflorasone
+130981,Diflucan
+130982,Diflunisal
+130983,Difluprednate
+130984,Digoxin
+130985,Dihydroergotamine
+130986,Dilantin
+130987,Dilaudid
+130988,Dilaudid-HP
+130989,Diltiazem
+130990,Dilt-XR
+130991,Dimenhydrinate
+130992,Dimetapp Children's Cold & Cough
+130993,Dimethyl fumarate
+130994,Dimethyl sulfoxide
+130995,Dinoprostone
+130996,Diosmiplex
+130997,Diovan
+130998,Diovan HCT
+130999,Diphenhydramine
+131000,Diphenhydramine / hydrocortisone
+131001,Diphenhydramine / naproxen
+131002,Diphenhydramine / phenylephrine
+131003,Diphenhydramine / pseudoephedrine
+131004,Diphenidol
+131005,Diprivan
+131006,Diprolene AF
+131007,Diprosone
+131008,Disopyramide
+131009,Disulfiram
+131010,Ditropan
+131011,Ditropan XL
+131012,Diurex Water Capsules
+131013,Divalproex sodium
+131014,Divigel
+131015,Doans Pills Extra Strength
+131016,Docetaxel
+131017,Docosanol
+131018,Doc-Q-Lax
+131019,Doculax
+131020,Docusate
+131021,Docusate / senna
+131022,Dofetilide
+131023,Dolgic Plus
+131024,Dolobid
+131025,Dolophine
+131026,Dolutegravir
+131027,Donepezil
+131028,Dong quai
+131029,Donnatal
+131030,Doral
+131031,Dornase alfa
+131032,Doryx
+131033,Dorzolamide
+131034,Dorzolamide / timolol
+131035,Dostinex
+131036,Dovonex
+131037,Doxazosin
+131038,Doxepin
+131039,Doxorubicin
+131040,Doxy 100
+131041,Doxycycline
+131042,Doxylamine
+131043,Doxylamine / pyridoxine
+131044,Dramamine
+131045,Dramamine II
+131046,Dramamine Less Drowsy
+131047,Drixoral Cold / Flu
+131048,Drixoral Cold and Allergy
+131049,Dronabinol
+131050,Dronedarone
+131051,Droperidol
+131052,Drospirenone / estradiol
+131053,Drospirenone / ethinyl estradiol
+131054,Drospirenone / ethinyl estradiol / levomefolate calcium
+131055,Drysol
+131056,Duac
+131057,Duavee
+131058,Duet DHA
+131059,Duexis
+131060,Dulaglutide
+131061,Dulcolax
+131062,Dulcolax Laxative
+131063,Dulcolax Stool Softener
+131064,Dulera
+131065,Duloxetine
+131066,DuoNeb
+131067,Duoplant
+131068,Dupilumab
+131069,Dupixent
+131070,Duragesic
+131071,Duramorph
+131072,Durezol
+131073,Dutasteride
+131074,Dutasteride / tamsulosin
+131075,Dyanavel XR
+131076,Dyazide
+131077,Dymista
+131078,Dynacin
+131079,Dysport
+131080,Ecallantide
+131081,Echinacea
+131082,Econazole
+131083,EContra EZ
+131084,Ed A-Hist
+131085,Edarbi
+131086,Edarbyclor
+131087,Edex
+131088,Edluar
+131089,Efavirenz
+131090,Efavirenz / emtricitabine / tenofovir
+131091,Effexor
+131092,Effexor XR
+131093,Effient
+131094,Efinaconazole
+131095,Eflornithine
+131096,Efudex
+131097,Egrifta
+131098,Elavil
+131099,Elbasvir / grazoprevir
+131100,Electrolyte replacement solutions
+131101,Elestat
+131102,Elestrin
+131103,Eletriptan
+131104,Elidel
+131105,Eligard
+131106,Elimite
+131107,Elinest
+131108,Eliquis
+131109,ella
+131110,Elmiron
+131111,Elocon
+131112,Eltrombopag
+131113,Eluxadoline
+131114,Embeda
+131115,Embeline
+131116,Emend
+131117,Emetrol
+131118,Emla
+131119,Emollients
+131120,Empagliflozin
+131121,Empagliflozin / linagliptin
+131122,Empagliflozin / metformin
+131123,Emsam
+131124,Emtricitabine / rilpivirine / tenofovir
+131125,Emtricitabine / rilpivirine / tenofovir alafenamide
+131126,Emtricitabine / tenofovir
+131127,Enablex
+131128,Enalapril
+131129,Enbrel
+131130,Endocet
+131131,Enemeez Mini
+131132,Enfuvirtide
+131133,Enjuvia
+131134,EnLyte
+131135,Enoxaparin
+131136,Enskyce
+131137,Enstilar
+131138,Entacapone
+131139,EnteraGam
+131140,Entocort EC
+131141,Entresto
+131142,Entyvio
+131143,Enulose
+131144,Enzalutamide
+131145,Eovist
+131146,Epclusa
+131147,Ephedrine
+131148,Ephedrine / guaifenesin
+131149,EpiCeram
+131150,Epidrin
+131151,Epiduo
+131152,Epiduo Forte
+131153,Epinastine
+131154,Epinephrine
+131155,EpiPen
+131156,Epitol
+131157,Epivir
+131158,Epivir-HBV
+131159,Eplerenone
+131160,Epoetin alfa
+131161,Epogen
+131162,Epoprostenol
+131163,Epzicom
+131164,Equetro
+131165,Erbitux
+131166,Ergocalciferol
+131167,Ergomar
+131168,Ergotamine
+131169,Eribulin
+131170,Erlotinib
+131171,Errin
+131172,Ery Pads
+131173,Ery-Tab
+131174,Erythromycin
+131175,Escitalopram
+131176,Esgic
+131177,Esgic-Plus
+131178,Eskalith
+131179,Eskalith-CR
+131180,Eslicarbazepine
+131181,Esomeprazole
+131182,Esomeprazole / naproxen
+131183,Estarylla
+131184,Estazolam
+131185,Esterified estrogens
+131186,Esterified estrogens / methyltestosterone
+131187,Estrace
+131188,Estrace Vaginal Cream
+131189,Estraderm
+131190,Estradiol
+131191,Estradiol / levonorgestrel
+131192,Estradiol / norethindrone
+131193,Estradiol Patch
+131194,Estrasorb
+131195,Estratest
+131196,Estratest H.S.
+131197,Estring
+131198,Estropipate
+131199,Eszopiclone
+131200,Etanercept
+131201,Ethacrynic acid
+131202,Ethambutol
+131203,Ethchlorvynol
+131204,Ethinyl estradiol / ethynodiol
+131205,Ethinyl estradiol / etonogestrel
+131206,Ethinyl estradiol / folic acid / levonorgestrel
+131207,Ethinyl estradiol / levonorgestrel
+131208,Ethinyl estradiol / norelgestromin
+131209,Ethinyl estradiol / norethindrone
+131210,Ethinyl estradiol / norgestimate
+131211,Ethinyl estradiol / norgestrel
+131212,Ethosuximide
+131213,Etodolac
+131214,Etonogestrel
+131215,Etravirine
+131216,Eucrisa
+131217,Euflexxa
+131218,Eurax
+131219,Evamist
+131220,Evekeo
+131221,Evening Primrose Oil
+131222,Everolimus
+131223,Evista
+131224,Evolocumab
+131225,Evoxac
+131226,Exalgo
+131227,Excedrin
+131228,Excedrin Back & Body
+131229,Excedrin PM
+131230,Excedrin Sinus Headache
+131231,Excedrin Tension Headache
+131232,Exelon
+131233,Exemestane
+131234,Exenatide
+131235,Exforge
+131236,Exforge HCT
+131237,Ex-Lax Maximum Relief Formula
+131238,Exparel
+131239,Extina
+131240,Exubera
+131241,Eylea
+131242,Ezetimibe
+131243,Ezetimibe / simvastatin
+131244,Fabior
+131245,Factive
+131246,Fallback Solo
+131247,Falmina
+131248,Famciclovir
+131249,Famotidine
+131250,Famotidine / ibuprofen
+131251,Famvir
+131252,Fanapt
+131253,Fansidar
+131254,Farxiga
+131255,Faslodex
+131256,Fast Freeze
+131257,Fastin
+131258,Febuxostat
+131259,Felbamate
+131260,Felbatol
+131261,Feldene
+131262,Felodipine
+131263,Femara
+131264,Femcon Fe
+131265,femhrt
+131266,Femring
+131267,Femtrace
+131268,Fenofibrate
+131269,Fenofibric acid
+131270,Fenoprofen
+131271,Fentanyl
+131272,Fentanyl Transdermal System
+131273,Fentora
+131274,Feraheme
+131275,Ferralet 90
+131276,Ferric citrate
+131277,Ferrlecit
+131278,Ferrous fumarate
+131279,Ferrous gluconate
+131280,Ferrous sulfate
+131281,Ferumoxytol
+131282,Fesoterodine
+131283,Fetzima
+131284,Feverall
+131285,Fexmid
+131286,Fexofenadine
+131287,Fexofenadine / pseudoephedrine
+131288,Fidaxomicin
+131289,Filgrastim
+131290,Finacea
+131291,Finasteride
+131292,Fingolimod
+131293,Fioricet
+131294,Fioricet with Codeine
+131295,Fiorinal
+131296,Fiorinal with Codeine
+131297,Firazyr
+131298,Firmagon
+131299,Flagyl
+131300,Flagyl ER
+131301,Flagyl IV
+131302,Flanax Pain Reliever
+131303,Flavoxate
+131304,Flecainide
+131305,Flector Patch
+131306,Fleet Bisacodyl
+131307,Fleet Enema
+131308,Fleet Glycerin Suppositories Adult
+131309,Fleet Phospho Soda
+131310,Fletchers Castoria
+131311,Flexeril
+131312,Flibanserin
+131313,Flomax
+131314,Flonase
+131315,Flonase Allergy Relief
+131316,Florastor
+131317,Florinef
+131318,Florinef Acetate
+131319,Flovent
+131320,Flovent HFA
+131321,Floxin
+131322,Fluconazole
+131323,Fludara
+131324,Fludarabine
+131325,Fludrocortisone
+131326,FluMist
+131327,FluMist Quadrivalent
+131328,Flunisolide
+131329,Fluocinolone
+131330,Fluocinolone / hydroquinone / tretinoin
+131331,Fluocinonide
+131332,Fluoride
+131333,Fluoridex
+131334,Fluoroplex
+131335,Fluorouracil
+131336,Fluoxetine
+131337,Fluoxetine / olanzapine
+131338,Fluphenazine
+131339,Flurandrenolide
+131340,Flurazepam
+131341,Flurbiprofen
+131342,Fluticasone
+131343,Fluticasone / salmeterol
+131344,Fluticasone / vilanterol
+131345,Fluvastatin
+131346,Fluvoxamine
+131347,Fluzone
+131348,FML Forte Liquifilm
+131349,Focalin
+131350,Focalin XR
+131351,Folic acid
+131352,Follicle stimulating hormone
+131353,Folotyn
+131354,Fondaparinux
+131355,Foradil Aerolizer
+131356,Formoterol
+131357,Formoterol / mometasone
+131358,Fortamet
+131359,Forteo
+131360,Fortesta
+131361,Fortical
+131362,Fosamax
+131363,Fosfomycin
+131364,Fosinopril
+131365,Fosrenol
+131366,Fostex Medicated
+131367,Fragmin
+131368,FreshKote
+131369,Frova
+131370,Frovatriptan
+131371,Fulvestrant
+131372,Furosemide
+131373,Fuzeon
+131374,Fycompa
+131375,Gabapentin
+131376,Gabapentin enacarbil
+131377,Gabarone
+131378,Gabitril
+131379,Gablofen
+131380,Gadavist
+131381,Gadobutrol
+131382,Gadopentetate dimeglumine
+131383,Gadoxetate disodium
+131384,Galantamine
+131385,Gammagard
+131386,Gamunex
+131387,Ganciclovir
+131388,Gardasil
+131389,Gastrocrom
+131390,Gas-X
+131391,Gatifloxacin
+131392,GaviLyte-C
+131393,GaviLyte-G
+131394,GaviLyte-N
+131395,Gefitinib
+131396,Gelnique
+131397,Gelusil
+131398,Gemcitabine
+131399,Gemfibrozil
+131400,Gemifloxacin
+131401,Gemzar
+131402,Generess Fe
+131403,Generlac
+131404,Gengraf
+131405,GenTeal
+131406,Gentian violet
+131407,Genvoya
+131408,Geodon
+131409,Gianvi
+131410,Gildess 1 / 20
+131411,Gildess 1.5 / 30
+131412,Gildess 24 Fe
+131413,Gildess Fe 1 / 20
+131414,Gildess Fe 1.5 / 30
+131415,Gilenya
+131416,Gilotrif
+131417,Ginkgo
+131418,Ginseng
+131419,Glatiramer
+131420,Glatopa
+131421,Glecaprevir / pibrentasvir
+131422,Gleevec
+131423,Glimepiride
+131424,Glimepiride / pioglitazone
+131425,Glipizide
+131426,Glipizide / metformin
+131427,GlipiZIDE XL
+131428,Glucophage
+131429,Glucophage XR
+131430,Glucosamine
+131431,Glucose
+131432,Glucotrol
+131433,Glucovance
+131434,Glumetza
+131435,Glutamine
+131436,Glyburide
+131437,Glyburide / metformin
+131438,Glycerin
+131439,Glyset
+131440,Glyxambi
+131441,Goldenseal
+131442,Golimumab
+131443,GoLYTELY
+131444,Gonal-f
+131445,Goody's Extra-Strength Headache Powders
+131446,Goody's Headache Powders
+131447,Goserelin
+131448,Gralise
+131449,Gramicidin / neomycin / polymyxin b
+131450,Granisetron
+131451,Grifulvin V
+131452,Griseofulvin
+131453,Gris-PEG
+131454,Guaifenesin
+131455,Guaifenesin / hydrocodone
+131456,Guaifenesin / phenylephrine
+131457,Guaifenesin / pseudoephedrine
+131458,Guanfacine
+131459,Guarana
+131460,Gynazole-1
+131461,H.P. Acthar Gel
+131462,Habitrol
+131463,Hair Regrowth Treatment for Women
+131464,"Hair, Skin & Nails"
+131465,Halaven
+131466,Halcinonide
+131467,Halcion
+131468,Haldol
+131469,Haldol Decanoate
+131470,HalfLytely and Bisacodyl
+131471,Halobetasol
+131472,Halog
+131473,Halog-E
+131474,Haloperidol
+131475,Harvoni
+131476,HC-Derma-Pax
+131477,Headache Relief PM
+131478,Heather
+131479,Hecoria
+131480,Hemax
+131481,Heme iron polypeptide
+131482,Hemin
+131483,Hepatitis b adult vaccine
+131484,Herceptin
+131485,Hexachlorophene
+131486,Hexalen
+131487,Hiprex
+131488,Histrelin
+131489,Hi-Vegi-Lip
+131490,Hizentra
+131491,Homatropine / hydrocodone
+131492,Horizant
+131493,Horse chestnut
+131494,Humalog
+131495,Humalog KwikPen
+131496,Humalog Mix 75 / 25
+131497,Human papillomavirus vaccine
+131498,Humate-P
+131499,Humatin
+131500,Humatrope
+131501,Humira
+131502,Humulin N
+131503,Humulin R U-500 (Concentrated)
+131504,Hyalgan
+131505,Hyaluronan
+131506,Hyaluronidase
+131507,Hycodan
+131508,Hydralazine
+131509,Hydralazine / hydrochlorothiazide / reserpine
+131510,Hydralazine / isosorbide dinitrate
+131511,Hydrea
+131512,Hydrochlorothiazide
+131513,Hydrochlorothiazide / irbesartan
+131514,Hydrochlorothiazide / lisinopril
+131515,Hydrochlorothiazide / losartan
+131516,Hydrochlorothiazide / moexipril
+131517,Hydrochlorothiazide / olmesartan
+131518,Hydrochlorothiazide / spironolactone
+131519,Hydrochlorothiazide / telmisartan
+131520,Hydrochlorothiazide / triamterene
+131521,Hydrochlorothiazide / valsartan
+131522,Hydrocodone
+131523,Hydrocodone / ibuprofen
+131524,Hydrocodone / pseudoephedrine
+131525,Hydrocortisone
+131526,Hydrocortisone / lidocaine
+131527,Hydrocortisone / neomycin / polymyxin b
+131528,Hydrocortisone / pramoxine
+131529,Hydrocortone
+131530,Hydromet
+131531,Hydromorphone
+131532,Hydroquinone
+131533,Hydroxocobalamin
+131534,Hydroxyamphetamine / tropicamide
+131535,Hydroxychloroquine
+131536,Hydroxyprogesterone
+131537,Hydroxyurea
+131538,Hydroxyzine
+131539,Hylan g-f 20
+131540,Hylira
+131541,HyoMax
+131542,HyoMax SL
+131543,HyoMax SR
+131544,Hyoscyamine
+131545,Hyoscyamine / methenamine / methylene blue / phenyl salicylate
+131546,Hyoscyamine / methenamine / methylene blue / phenyl salicylate / sodium biphosphate
+131547,Hyoscyamine / methenamine / methylene blue / sodium biphosphate
+131548,Hyosyne
+131549,Hypercare
+131550,Hypotears
+131551,Hysingla ER
+131552,Hytrin
+131553,Hyzaar
+131554,Hyzine
+131555,Ibandronate
+131556,Ibrance
+131557,Ibrutinib
+131558,IBU
+131559,Ibudone
+131560,Ibuprofen
+131561,Ibuprofen / pseudoephedrine
+131562,Icatibant
+131563,Iclusig
+131564,Icosapent
+131565,Ifex
+131566,Ifosfamide
+131567,Ilevro
+131568,Iloperidone
+131569,Iluvien
+131570,Imatinib
+131571,Imbruvica
+131572,Imdur
+131573,Imiglucerase
+131574,Imipramine
+131575,Imiquimod
+131576,Imitrex
+131577,Imitrex Nasal
+131578,Imitrex Statdose
+131579,Immune globulin intravenous
+131580,Immune globulin intravenous and subcutaneous
+131581,Immune globulin oral
+131582,Immune globulin subcutaneous
+131583,Imodium
+131584,Imodium A-D
+131585,Imotil
+131586,Implanon
+131587,Imuran
+131588,Inapsine
+131589,Incivek
+131590,IncobotulinumtoxinA
+131591,Incruse Ellipta
+131592,Indapamide
+131593,Inderal
+131594,Inderal LA
+131595,Indocin
+131596,Indocin SR
+131597,Indomethacin
+131598,Infliximab
+131599,"Influenza virus vaccine, inactivated"
+131600,"Influenza virus vaccine, live, trivalent"
+131601,Infumorph
+131602,Ingenol
+131603,Innohep
+131604,InnoPran XL
+131605,Inspra
+131606,Insta-Glucose
+131607,Insulin aspart
+131608,Insulin aspart / insulin aspart protamine
+131609,Insulin degludec
+131610,Insulin detemir
+131611,Insulin glargine
+131612,Insulin glulisine
+131613,"Insulin inhalation, rapid acting"
+131614,Insulin isophane
+131615,Insulin isophane / insulin regular
+131616,Insulin lispro
+131617,Insulin lispro / insulin lispro protamine
+131618,Insulin regular
+131619,Intal
+131620,Intal Inhaler
+131621,Integra
+131622,Integra F
+131623,Interferon alfa-2b
+131624,Interferon beta-1a
+131625,Interferon beta-1b
+131626,Intermezzo
+131627,Intron A
+131628,Introvale
+131629,Intuniv
+131630,Inulin
+131631,Invega
+131632,Invega Sustenna
+131633,Invega Trinza
+131634,Invokana
+131635,Iohexol
+131636,Ionamin
+131637,Ipratropium
+131638,Ipratropium Inhalation Solution
+131639,Irbesartan
+131640,Iressa
+131641,Irinotecan
+131642,Iron polysaccharide
+131643,Iron sucrose
+131644,Isentress
+131645,Isocarboxazid
+131646,Isoniazid
+131647,Isoptin SR
+131648,Isosorbide dinitrate
+131649,Isosorbide mononitrate
+131650,Isotretinoin
+131651,Isoxsuprine
+131652,Isradipine
+131653,Istalol
+131654,Istodax
+131655,Itraconazole
+131656,Ivabradine
+131657,Ivermectin
+131658,Ixekizumab
+131659,Jakafi
+131660,Jalyn
+131661,Jantoven
+131662,Janumet
+131663,Januvia
+131664,Jardiance
+131665,Jencycla
+131666,Jentadueto
+131667,Jolessa
+131668,Jolivette
+131669,Jublia
+131670,Juleber
+131671,Junel 1 / 20
+131672,Junel 1.5 / 30
+131673,Junel Fe 1 / 20
+131674,Junel Fe 1.5 / 30
+131675,Junel Fe 24
+131676,Juvederm Voluma XC
+131677,Kadian
+131678,Kaletra
+131679,Kapidex
+131680,Kapvay
+131681,Kariva
+131682,Kava
+131683,Kazano
+131684,Keflex
+131685,Kemadrin
+131686,Kenalog
+131687,Kenalog-10
+131688,Kenalog-40
+131689,Keppra
+131690,Keppra XR
+131691,Kerydin
+131692,Ketalar
+131693,Ketamine
+131694,Ketoconazole
+131695,Ketoprofen
+131696,Ketorolac
+131697,Ketotifen
+131698,Keytruda
+131699,Kineret
+131700,Kionex
+131701,Klonopin
+131702,Klonopin Wafer
+131703,Klor-Con
+131704,KneeRelief
+131705,Kombiglyze XR
+131706,Krystexxa
+131707,Kybella
+131708,Kyleena
+131709,Kytril
+131710,Labetalol
+131711,Lac-Hydrin
+131712,Lacosamide
+131713,Lacrisert
+131714,Lactaid
+131715,Lactase
+131716,Lactic acid
+131717,Lactobacillus acidophilus
+131718,Lactulose
+131719,Lagesic
+131720,Lamictal
+131721,Lamictal ODT
+131722,Lamictal XR
+131723,Lamisil
+131724,Lamisil AT
+131725,Lamivudine
+131726,Lamivudine / zidovudine
+131727,Lamotrigine
+131728,Lanacane
+131729,Lanolin
+131730,Lanoxicaps
+131731,Lansoprazole
+131732,Lanthanum carbonate
+131733,Lantus
+131734,Lantus Solostar
+131735,Lariam
+131736,Larin 24 Fe
+131737,Larin Fe 1 / 20
+131738,Larissia
+131739,Lasix
+131740,Lastacaft
+131741,Latanoprost
+131742,Latisse
+131743,Latuda
+131744,Lazanda
+131745,L-Carnitine
+131746,Leader Nicotine Polacrilex
+131747,Lecithin
+131748,Ledipasvir / sofosbuvir
+131749,Leflunomide
+131750,Lemtrada
+131751,Lenalidomide
+131752,Lescol
+131753,Lesinurad
+131754,Lessina
+131755,Letairis
+131756,Letrozole
+131757,Leukeran
+131758,Leuprolide
+131759,Leustatin
+131760,Levalbuterol
+131761,Levaquin
+131762,Levemir
+131763,Levetiracetam
+131764,Levitra
+131765,Levlen
+131766,Levocetirizine
+131767,Levodopa
+131768,Levofloxacin
+131769,Levomilnacipran
+131770,Levonorgestrel
+131771,Levora
+131772,Levorphanol
+131773,Levo-T
+131774,Levothroid
+131775,Levothyroxine
+131776,Levoxyl
+131777,Levsin
+131778,Levsin SL
+131779,Lexapro
+131780,Lexiscan
+131781,Lialda
+131782,Librax
+131783,Librium
+131784,Lidex
+131785,Lidocaine
+131786,Lidocaine / menthol
+131787,Lidocaine / prilocaine
+131788,Lidocaine Viscous
+131789,Lidoderm
+131790,Lifitegrast
+131791,Liletta
+131792,Lillow
+131793,Limbitrol
+131794,Limbitrol DS
+131795,Limbrel
+131796,Limbrel 500
+131797,Linaclotide
+131798,Linagliptin
+131799,Linagliptin / metformin
+131800,Lincocin
+131801,Lincomycin
+131802,Linezolid
+131803,Linzess
+131804,Lioresal
+131805,Lioresal Intrathecal
+131806,Liothyronine
+131807,Lipitor
+131808,Lipofen
+131809,Liquid Co-Q10
+131810,Liraglutide
+131811,Lisdexamfetamine
+131812,Lisinopril
+131813,Lithium
+131814,Lithobid
+131815,Lithostat
+131816,Livalo
+131817,L-methylfolate
+131818,L-Methylfolate Calcium
+131819,LMX 4
+131820,LMX 5
+131821,Lo / Ovral
+131822,Lo / Ovral-28
+131823,Lo Loestrin Fe
+131824,Locoid Lipocream
+131825,Lodine
+131826,Loestrin 21 1 / 20
+131827,Loestrin 21 1.5 / 30
+131828,Loestrin 24 Fe
+131829,Loestrin Fe 1 / 20
+131830,Loestrin Fe 1.5 / 30
+131831,Lomaira
+131832,Lomedia 24 Fe
+131833,Lomotil
+131834,Lonox
+131835,Loperamide
+131836,Lopid
+131837,Lopinavir / ritonavir
+131838,Lopressor
+131839,Loprox
+131840,Lorabid
+131841,Loracarbef
+131842,Loratadine
+131843,Loratadine / pseudoephedrine
+131844,Loratadine-D 24 Hour
+131845,Lorazepam
+131846,Lorazepam Intensol
+131847,Lorcaserin
+131848,Lorcet
+131849,Lorcet 10 / 650
+131850,Lortab
+131851,Loryna
+131852,Lorzone
+131853,Losartan
+131854,LoSeasonique
+131855,Lotemax
+131856,Lotensin
+131857,Loteprednol
+131858,Loteprednol / tobramycin
+131859,Lotrel
+131860,Lotrimin AF Athlete's Foot Powder
+131861,Lotronex
+131862,Lovastatin
+131863,Lovaza
+131864,Lovenox
+131865,Low-Ogestrel-21
+131866,Loxapine
+131867,Lubiprostone
+131868,Lucentis
+131869,Ludiomil
+131870,Lumigan
+131871,Luminal
+131872,Lunesta
+131873,Lupron
+131874,Lupron Depot
+131875,Lupron Depot-PED
+131876,Lurasidone
+131877,Lutera
+131878,Luvox
+131879,Luvox CR
+131880,Luxiq
+131881,Lybrel
+131882,Lyrica
+131883,Lysine
+131884,Lysteda
+131885,Lyza
+131886,Macitentan
+131887,Macrobid
+131888,Macrodantin
+131889,Macugen
+131890,Magaldrate / simethicone
+131891,Magnacet
+131892,Magnesium citrate
+131893,Magnesium gluconate
+131894,Magnesium hydroxide
+131895,Magnesium oxide
+131896,Magnesium salicylate
+131897,Magnesium sulfate
+131898,Magnesium sulfate / potassium sulfate / sodium sulfate
+131899,Magnevist
+131900,Makena
+131901,Malarone
+131902,Malathion
+131903,Mandelamine
+131904,Maprotiline
+131905,Maraviroc
+131906,Marcaine
+131907,Marezine
+131908,Marinol
+131909,Marlissa
+131910,Marplan
+131911,Mavik
+131912,Mavyret
+131913,Maxair
+131914,Maxair Autohaler
+131915,Maxalt
+131916,Maxalt-MLT
+131917,Maxaron Forte
+131918,Maxichlor PSE DM
+131919,Maxidex
+131920,Maxidone
+131921,Maxifed DM
+131922,Maxitrol
+131923,Maxzide
+131924,MCT
+131925,Mebaral
+131926,Mebendazole
+131927,Meclizine
+131928,Medi-Quik Spray
+131929,Medium chain triglycerides
+131930,Medrol
+131931,Medrol Dosepak
+131932,Medroxyprogesterone
+131933,Mefenamic acid
+131934,Mefloquine
+131935,Megace
+131936,Megace ES
+131937,Megestrol
+131938,Mekinist
+131939,Melatonin
+131940,Mellaril
+131941,Meloxicam
+131942,Melpaque HP
+131943,Melquin HP
+131944,Memantine
+131945,Menactra
+131946,M-End PE
+131947,Menest
+131948,Meningococcal group B vaccine
+131949,Menthol
+131950,Menthol / zinc oxide
+131951,Meperidine
+131952,Meperidine / promethazine
+131953,Meperitab
+131954,Mephobarbital
+131955,Mephyton
+131956,Mepivacaine
+131957,Mepolizumab
+131958,Meprobamate
+131959,Mepron
+131960,Mercaptopurine
+131961,Meridia
+131962,Meropenem
+131963,Mesalamine
+131964,Mestinon
+131965,Mestinon Timespan
+131966,Mestranol / norethindrone
+131967,Metadate CD
+131968,Metamucil
+131969,Metaproterenol
+131970,Metaxalone
+131971,Metformin
+131972,Metformin / pioglitazone
+131973,Metformin / rosiglitazone
+131974,Metformin / saxagliptin
+131975,Metformin / sitagliptin
+131976,Methacholine
+131977,Methadone
+131978,Methadone Diskets
+131979,Methadose
+131980,Methamphetamine
+131981,Methenamine
+131982,Methenamine / sodium acid phosphate
+131983,Methergine
+131984,Methimazole
+131985,Methitest
+131986,Methocarbamol
+131987,Methotrexate
+131988,Methscopolamine
+131989,Methyl salicylate
+131990,Methylcellulose
+131991,Methyldopa
+131992,Methylergonovine
+131993,Methylin
+131994,Methylin ER
+131995,Methylnaltrexone
+131996,Methylphenidate
+131997,Methylprednisolone
+131998,Methyltestosterone
+131999,Metoclopramide
+132000,Metolazone
+132001,Metoprolol
+132002,Metoprolol Tartrate
+132003,MetroCream
+132004,MetroGel
+132005,MetroGel-Vaginal
+132006,Metronidazole
+132007,Mevacor
+132008,Mexiletine
+132009,Mexitil
+132010,MG217 Medicated Tar
+132011,Miacalcin
+132012,Mibelas 24 Fe
+132013,Micardis
+132014,Micardis HCT
+132015,Micon 7
+132016,Miconazole
+132017,Miconazole / zinc oxide
+132018,Micrainin
+132019,Microgestin 1 / 20
+132020,Microgestin 1.5 / 30
+132021,Microgestin Fe 1 / 20
+132022,Microgestin Fe 1.5 / 30
+132023,Midamor
+132024,Midazolam
+132025,Midodrine
+132026,Midol Extended Relief
+132027,Midol PM
+132028,Midostaurin
+132029,Mifepristone
+132030,Migergot
+132031,Migranal
+132032,Milk of Magnesia
+132033,Milk thistle
+132034,Milnacipran
+132035,Miltown
+132036,Minastrin 24 Fe
+132037,Minipress
+132038,Minivelle
+132039,Minocin
+132040,Minocycline
+132041,Minoxidil
+132042,Mirabegron
+132043,MiraLax
+132044,Mirapex
+132045,Mirapex ER
+132046,Mircette
+132047,Mirena
+132048,Mirtazapine
+132049,Mirvaso
+132050,Misoprostol
+132051,Mitoxantrone
+132052,Moban
+132053,Mobic
+132054,Modafinil
+132055,Moexipril
+132056,Molindone
+132057,Mometasone
+132058,Monistat 1-Day or Night Combination Pack
+132059,Monistat 3-Day Combination Pack
+132060,Monistat 7
+132061,Monistat 7-Day Combination Pack
+132062,Monodox
+132063,Mono-Linyah
+132064,Mononessa
+132065,Monopril
+132066,Monovisc
+132067,Montelukast
+132068,Monurol
+132069,Morphine
+132070,Morphine / naltrexone
+132071,Motofen
+132072,Motrin
+132073,Motrin IB
+132074,Movantik
+132075,MoviPrep
+132076,Moxeza
+132077,Moxifloxacin
+132078,MS Contin
+132079,Mucinex
+132080,Mucinex D
+132081,Mucinex D Maximum Strength
+132082,Mucinex DM
+132083,Mucinex DM Maximum Strength
+132084,Mucinex Fast-Max Night Time Cold & Flu
+132085,Mucinex Fast-Max Severe Congestion & Cough
+132086,Mucinex Maximum Strength
+132087,Mucinex Sinus-Max Full Force
+132088,Mucomyst
+132089,Multaq
+132090,Multivitamin
+132091,Multivitamin with iron
+132092,Multivitamin with minerals
+132093,"Multivitamin, prenatal"
+132094,Mumps virus vaccine
+132095,Mupirocin
+132096,Muse
+132097,MVI Adult
+132098,My Way
+132099,Mycelex Troche
+132100,Mycophenolate mofetil
+132101,Mycophenolic acid
+132102,Mydayis
+132103,Myfortic
+132104,Mylanta
+132105,Mylanta Gas
+132106,Myleran
+132107,Myobloc
+132108,Myorisan
+132109,Myrbetriq
+132110,Mysoline
+132111,M-Zole 3
+132112,Nabilone
+132113,Nabumetone
+132114,Nadolol
+132115,Nafarelin
+132116,Naftifine
+132117,Naftin
+132118,Nalbuphine
+132119,Nalfon
+132120,Naloxegol
+132121,Naloxone
+132122,Naloxone / oxycodone
+132123,Naloxone / pentazocine
+132124,Naltrexone
+132125,Namenda
+132126,Namenda XR
+132127,Naphazoline
+132128,Naphazoline / pheniramine
+132129,Naprelan
+132130,Naprosyn
+132131,Naproxen
+132132,Naproxen / pseudoephedrine
+132133,Naproxen / sumatriptan
+132134,Naratriptan
+132135,Narcan Injection
+132136,Nardil
+132137,Naropin Polyamp
+132138,Nasacort
+132139,Nasacort Allergy 24HR
+132140,Nasacort AQ
+132141,Nasarel
+132142,Nasonex
+132143,Natalizumab
+132144,Natazia
+132145,Natelle One
+132146,Natesto
+132147,Natpara
+132148,Natroba
+132149,Nature-Throid
+132150,Navane
+132151,Nebivolol
+132152,Necitumumab
+132153,Necon 1 / 35
+132154,Necon 1 / 50
+132155,Necon 7 / 7 / 7
+132156,Nedocromil
+132157,Neevo DHA
+132158,Nefazodone
+132159,Neo-Poly-Dex
+132160,Neoral
+132161,Neostigmine
+132162,Nepafenac
+132163,Nesina
+132164,Neulasta
+132165,Neupogen
+132166,Neupro
+132167,Neurontin
+132168,NeutraSal
+132169,Nevanac
+132170,Nevirapine
+132171,Nexafed Nasal Decongestant
+132172,Nexavar
+132173,Nexium
+132174,Nexium 24HR
+132175,Nexium IV
+132176,Nexplanon
+132177,Next Choice
+132178,Niacin
+132179,Niacin / simvastatin
+132180,Niacinamide
+132181,Niaspan
+132182,Nicoderm CQ
+132183,Nicorette
+132184,Nicotine
+132185,Nicotrol Inhaler
+132186,Nicotrol NS
+132187,Nifedical XL
+132188,Nifedipine
+132189,Niferex
+132190,Nikki
+132191,Nilotinib
+132192,Nilstat
+132193,Nimodipine
+132194,Nimotop
+132195,Niraparib
+132196,Niravam
+132197,Nisoldipine
+132198,Nitro-Bid
+132199,Nitro-Dur
+132200,Nitrofurantoin
+132201,Nitroglycerin
+132202,Nitrolingual Pumpspray
+132203,Nitrostat
+132204,Nivolumab
+132205,Nizatidine
+132206,Nizoral
+132207,Nizoral A-D
+132208,Nizoral Shampoo
+132209,Nizoral Topical
+132210,NoDoz
+132211,Nolvadex
+132212,Nora-Be
+132213,Norco
+132214,Norditropin
+132215,Norel SR
+132216,Norethindrone
+132217,Norflex
+132218,Norfloxacin
+132219,Norgesic
+132220,Norgesic Forte
+132221,Norinyl 1+35
+132222,Norlyda
+132223,Normodyne
+132224,Noroxin
+132225,Norpace
+132226,Norpace CR
+132227,Norpramin
+132228,Nor-QD
+132229,Nortrel 1 / 35
+132230,Nortrel 7 / 7 / 7
+132231,Nortriptyline
+132232,Norvasc
+132233,Norvir
+132234,Nostrilla
+132235,Novolin 70 / 30
+132236,Novolin N
+132237,Novolog
+132238,NovoLog FlexPen
+132239,NovoLog Mix 70 / 30
+132240,NP Thyroid
+132241,Nubain
+132242,Nucala
+132243,Nucynta
+132244,Nucynta ER
+132245,Nuedexta
+132246,NuLYTELY
+132247,NuOx
+132248,Nupercainal
+132249,Nutraplus
+132250,Nutropin
+132251,NuvaRing
+132252,Nuvessa
+132253,Nuvigil
+132254,Nuwiq
+132255,Nystatin
+132256,Nystatin / triamcinolone
+132257,Nystop
+132258,Nytol
+132259,Oasis Tears
+132260,OB Complete Gold
+132261,Ocella
+132262,Octagam
+132263,Octreotide
+132264,Ocular lubricant
+132265,Odefsey
+132266,Ofloxacin
+132267,Ogen
+132268,Ogestrel-28
+132269,Olanzapine
+132270,Oleptro
+132271,Olmesartan
+132272,Olodaterol
+132273,Olodaterol / tiotropium
+132274,Olopatadine
+132275,Olux
+132276,Olux-E
+132277,Olysio
+132278,Omacor
+132279,Omalizumab
+132280,Omega-3 polyunsaturated fatty acids
+132281,Omeprazole
+132282,Omeprazole / sodium bicarbonate
+132283,Omnaris
+132284,Omnicef
+132285,Omnipaque 350
+132286,Omnitrope
+132287,OnabotulinumtoxinA
+132288,Ondansetron
+132289,Onexton
+132290,Onfi
+132291,Onglyza
+132292,Onzetra Xsail
+132293,Opana
+132294,Opana ER
+132295,Opcicon One-Step
+132296,Opcon-A
+132297,Opdivo
+132298,Opium
+132299,Opsumit
+132300,Optivar
+132301,Oracea
+132302,Orajel
+132303,Oramorph SR
+132304,Orap
+132305,Orapred
+132306,Orencia
+132307,Orlistat
+132308,Ornex
+132309,Orphenadrine
+132310,Orsythia
+132311,Ortho Cyclen
+132312,Ortho Evra
+132313,Ortho Micronor
+132314,Ortho Tri-Cyclen
+132315,Ortho Tri-Cyclen Lo
+132316,Ortho-Cept
+132317,Ortho-Novum 1 / 35
+132318,Ortho-Novum 7 / 7 / 7
+132319,Orthovisc
+132320,Orudis KT
+132321,Oruvail
+132322,Orvaten
+132323,Oseltamivir
+132324,OsmoPrep
+132325,Ospemifene
+132326,Osphena
+132327,Osteo Bi-Flex
+132328,Otezla
+132329,Otrexup
+132330,Ovace Plus
+132331,Ovide
+132332,Ovidrel
+132333,Oxaliplatin
+132334,Oxaprozin
+132335,Oxaydo
+132336,Oxazepam
+132337,Oxcarbazepine
+132338,Oxiconazole
+132339,Oxistat
+132340,Oxtellar XR
+132341,Oxy-10
+132342,Oxybutynin
+132343,Oxycodone
+132344,OxyContin
+132345,Oxyfast
+132346,OxyIR
+132347,Oxymetazoline
+132348,Oxymetholone
+132349,Oxymorphone
+132350,Oxytocin
+132351,Oxytrol
+132352,Ozurdex
+132353,Pacerone
+132355,Paclitaxel protein-bound
+132356,Palbociclib
+132357,Palgic
+132358,Paliperidone
+132359,Palladone
+132360,Palonosetron
+132361,Pamabrom
+132362,Pamelor
+132363,Pamine
+132364,Pancreatin
+132365,Pancreaze
+132366,Pancrelipase
+132367,Panhematin
+132368,Panitumumab
+132369,Panlor SS
+132370,PanOxyl
+132371,PanOxyl 10% Acne Foaming Wash
+132372,Pantoprazole
+132373,Parafon Forte DSC
+132374,ParaGard
+132375,Paraplatin
+132376,Parathyroid hormone
+132377,Paregoric
+132378,Paremyd
+132379,Parlodel
+132380,Parnate
+132381,Paromomycin
+132382,Paroxetine
+132383,Pataday
+132384,Patanase
+132385,Patanol
+132386,Paxil
+132387,Paxil CR
+132388,Pazeo
+132389,Pazopanib
+132390,Pedi-Dri
+132391,Pedipirox-4
+132392,PEG3350
+132393,PEG-3350 with Electolytes
+132394,Peganone
+132395,Pegasys
+132396,Pegfilgrastim
+132397,Peginterferon alfa-2a
+132398,Peginterferon beta-1a
+132399,Pegloticase
+132400,Pembrolizumab
+132401,Pemetrexed
+132402,Pemirolast
+132403,Pemoline
+132404,Penciclovir
+132405,Penicillamine
+132406,Penicillin g benzathine
+132407,Penicillin v potassium
+132408,Penicillin VK
+132409,Penlac
+132410,Penlac Nail Lacquer
+132411,Pennsaid
+132412,Pennyroyal
+132413,Pentasa
+132414,Pentazocine
+132415,Pentobarbital
+132416,Pentosan polysulfate sodium
+132417,Pentothal
+132418,Pentoxifylline
+132419,Pepcid
+132420,Pepcid AC Chewable Tablets
+132421,Peppermint
+132422,Pepto-Bismol
+132423,Perampanel
+132424,Percocet
+132425,Percodan
+132426,Perforomist
+132427,Peri-Colace
+132428,Peridex
+132429,Perindopril
+132430,Periogard
+132431,Permethrin
+132432,Pernox
+132433,Perphenazine
+132434,Pexeva
+132435,Phenazopyridine
+132436,Phendiet
+132437,Phendimetrazine
+132438,Phenelzine
+132439,Phenergan
+132440,Phenobarbital
+132441,Phenohytro
+132442,Phenol
+132443,Phentercot
+132444,Phentermine
+132445,Phentermine / topiramate
+132446,Phentride
+132447,Phenylephrine
+132448,Phenylephrine / pramoxine
+132449,Phenylephrine / pyrilamine
+132450,Phenytek
+132451,Phenytoin
+132452,Philith
+132453,Phillips Colon Health
+132454,Phillips' Milk of Magnesia
+132455,PhosLo
+132456,Phosphasal
+132457,Phosphorated carbohydrate solution
+132458,Phrenilin
+132459,Phytonadione
+132460,Picato
+132461,Pilocarpine
+132462,Pima
+132463,Pimecrolimus
+132464,Pimozide
+132465,Pimtrea
+132466,Pindolol
+132467,Pin-X
+132468,Pioglitazone
+132469,Piperacillin / tazobactam
+132470,Piperonyl butoxide / pyrethrins
+132471,Pirbuterol
+132472,Pirmella 1 / 35
+132473,Piroxicam
+132474,Pitavastatin
+132475,Plan B
+132476,Plan B One-Step
+132477,Plaquenil
+132478,Platinol
+132479,Plavix
+132480,Plecanatide
+132481,Plegridy
+132482,Plendil
+132483,Pletal
+132484,Plexion Cleanser
+132485,Pneumococcal 13-valent vaccine
+132486,Pneumococcal 23-polyvalent vaccine
+132487,Podofilox
+132488,Podophyllum resin
+132489,Polidocanol
+132490,Polocaine
+132491,Polyethylene glycol 3350
+132492,Polyethylene glycol 3350 with electrolytes
+132493,Polymyxin b / trimethoprim
+132494,Polysporin First Aid Antibiotic Ointment
+132495,Polytrim
+132496,Pomalidomide
+132497,Pomalyst
+132498,Ponatinib
+132499,Ponstel
+132500,Portia
+132501,Potassium chloride
+132502,Potassium iodide
+132503,Povidone iodine
+132504,PR Natal 400
+132505,Pradaxa
+132506,Pralatrexate
+132507,Praluent
+132508,Pramipexole
+132509,Pramlintide
+132510,Pramosone
+132511,Pramoxine
+132512,Prandin
+132513,Prasugrel
+132514,Pravachol
+132515,Pravastatin
+132516,Prax
+132517,Praziquantel
+132518,Prazosin
+132519,Prednicarbate
+132520,Prednicot
+132521,Prednisolone
+132522,Prednisolone / sulfacetamide sodium
+132523,Prednisone
+132524,Prefrin
+132525,Pregabalin
+132526,Pregnyl
+132527,Premarin
+132528,Premarin Vaginal
+132529,Premphase
+132530,Prempro
+132531,Prenatal Plus
+132532,PreNexa
+132533,Prepopik
+132534,Prevacid
+132535,Prevacid OTC
+132536,Prevacid SoluTab
+132537,Prevalite
+132538,Previfem
+132539,Prevnar 13
+132540,Prevpac
+132541,Prezcobix
+132542,Prezista
+132543,Prialt
+132544,Prilosec
+132545,Prilosec OTC
+132546,Primatene
+132547,Primatene Mist
+132548,Primidone
+132549,Primlev
+132550,Prinivil
+132551,Prinzide
+132552,Pristiq
+132553,Privigen
+132554,Privine
+132555,ProAir HFA
+132556,ProAir RespiClick
+132557,ProAmatine
+132558,Probenecid
+132559,Probenecid and Colchicine
+132560,Procardia
+132561,Procardia XL
+132562,ProCentra
+132563,Prochlorperazine
+132564,Procrit
+132565,Proctofoam
+132566,Proctofoam HC
+132567,Proctosol-HC
+132568,Procyclidine
+132569,Pro-Den Rx
+132570,Prodrin
+132571,ProFe
+132572,Proferrin-ES
+132573,Progesterone
+132574,Proglycem
+132575,Prograf
+132576,Prolastin-C
+132577,Prolensa
+132578,Proleukin
+132579,Prolia
+132580,Prolixin
+132581,Promacta
+132582,Promethazine
+132583,Promethazine DM
+132584,Prometrium
+132585,Propafenone
+132586,Propecia
+132587,Propofol
+132588,Propoxyphene
+132589,Propranolol
+132590,Proscar
+132591,Protonix
+132592,Protonix IV
+132593,Protopic
+132594,Protriptyline
+132595,Provenge
+132596,Proventil
+132597,Proventil HFA
+132598,Provera
+132599,Provida DHA
+132600,Provigil
+132601,Provocholine
+132602,Prozac
+132603,Prozac Weekly
+132604,Pseudoephedrine
+132605,Pseudoephedrine / triprolidine
+132606,Psorcon
+132607,Psorcon E
+132608,Psoriasin
+132609,Psyllium
+132610,Pulmicort Flexhaler
+132611,Pulmicort Respules
+132612,Pulmicort Turbuhaler
+132613,Purinethol
+132614,Pylera
+132615,Pyrantel
+132616,Pyridium
+132617,Pyridostigmine
+132618,Pyridoxine
+132619,Pyrimethamine
+132620,Pyrimethamine / sulfadoxine
+132621,QNASL
+132622,Qsymia
+132623,Qualaquin
+132624,Quasense
+132625,Quazepam
+132626,Qudexy XR
+132627,Questran
+132628,Questran Light
+132629,Quetiapine
+132630,Quibron-T
+132631,Quillivant XR
+132632,Quinapril
+132633,Quinidine
+132634,Quinine
+132635,Qutenza
+132636,Qvar
+132637,Rabeprazole
+132638,"Rabies vaccine, human diploid cell"
+132639,Racepinephrine
+132640,RadiaPlexRx
+132641,Rajani
+132642,Raloxifene
+132643,Raltegravir
+132644,Ramelteon
+132645,Ramipril
+132646,Ranexa
+132647,Ranibizumab
+132648,Ranitidine
+132649,Ranolazine
+132650,Rapaflo
+132651,Rasagiline
+132652,Raspberry
+132653,Rayaldee
+132654,Rayos
+132655,Razadyne ER
+132656,Rea Lo 40
+132657,Readi-Cat
+132658,Readi-Cat 2
+132659,Rebetol
+132660,Rebif
+132661,Rebif Rebidose
+132662,Reclast
+132663,Reclipsen
+132664,RectiCare
+132665,Rectiv
+132666,Red yeast rice
+132667,Reese's Pinworm Medicine
+132668,Refresh Liquigel
+132669,Refresh PM
+132670,Regadenoson
+132671,Regimex
+132672,Reglan
+132673,Regorafenib
+132674,Relafen
+132675,Relenza
+132676,ReliOn / Novolin 70 / 30
+132677,Relistor
+132678,Relpax
+132679,Remeron
+132680,Remeron SolTab
+132681,Remicade
+132682,Remodulin
+132683,Renagel
+132684,Renvela
+132685,Repaglinide
+132686,Repatha
+132687,Reprexain
+132688,Requip
+132689,Requip XL
+132690,Reserpine
+132691,Reslizumab
+132692,Resorcinol / sulfur
+132693,Restasis
+132694,Restoril
+132695,Retapamulin
+132696,Retin A Micro
+132697,Retin-A
+132698,Retisert
+132699,Retre-Gel
+132700,Revatio
+132701,Revia
+132702,Revlimid
+132703,Rexulti
+132704,Reyataz
+132705,Rezira
+132706,Rheumatrex Dose Pack
+132707,Rhinocort
+132708,Rhinocort Aqua
+132709,Rho (d) immune globulin
+132710,Rhofade
+132711,Ribavirin
+132712,Riboflavin
+132713,RID
+132714,Ridaura
+132715,Rifadin
+132716,Rifampin
+132717,Rifaximin
+132718,Rilonacept
+132719,Rilutek
+132720,Riluzole
+132721,Riociguat
+132722,Risedronate
+132723,Risperdal
+132724,Risperdal Consta
+132725,Risperdal M-Tab
+132726,Risperidone
+132727,Ritalin
+132728,Ritalin LA
+132729,Ritalin-SR
+132730,Rituxan
+132731,Rituximab
+132732,Rivaroxaban
+132733,Rivastigmine
+132734,Rizatriptan
+132735,Robaxin
+132736,Robaxin-750
+132737,Robitussin Cold Cough and Flu
+132738,Robitussin Cough + Chest Congestion DM
+132739,Robitussin CoughGels Long-Acting
+132740,Rocaltrol
+132741,Rocephin
+132742,Roflumilast
+132743,Rogaine
+132744,Rogaine Men's Extra Strength
+132745,Rogaine Women's
+132746,Rolapitant
+132747,Romidepsin
+132748,Romiplostim
+132749,Ropinirole
+132750,Ropivacaine
+132751,Rosiglitazone
+132752,Rosuvastatin
+132753,Rotigotine
+132754,Rowasa
+132755,Roxicet
+132756,Roxicodone
+132757,Roxicodone Intensol
+132758,Royal jelly
+132759,Rozerem
+132760,Rozex
+132761,R-Tanna
+132762,Ruconest
+132763,Rufinamide
+132764,Ruxolitinib
+132765,Rynatan
+132766,Rytary
+132767,Rythmol
+132768,Rythmol SR
+132769,Ryzolt
+132770,Saccharomyces boulardii lyo
+132771,Sacubitril / valsartan
+132772,S-adenosylmethionine
+132773,Safyral
+132774,Saizen
+132775,Salicylic acid
+132776,Salicylic acid / sulfur
+132777,Salicylic acid / urea
+132778,Saliva substitutes
+132779,SalivaMAX
+132780,Salivart
+132781,Salofalk
+132782,Salonpas Pain Patch
+132783,Salsalate
+132784,Salvax Duo
+132785,Sanctura
+132786,Sanctura XR
+132787,Sancuso
+132788,Sandostatin
+132789,Sansert
+132790,Saphris
+132791,Sarafem
+132792,Sarna Sensitive
+132793,Savaysa
+132794,Savella
+132795,Saw palmetto
+132796,Saxagliptin
+132797,Saxenda
+132798,Schiff Move Free
+132799,Scopolamine
+132800,Scullcap
+132801,Scytera
+132802,Seasonale
+132803,Seasonique
+132804,Secobarbital
+132805,Seconal
+132806,Seconal Sodium
+132807,Sectral
+132808,Secukinumab
+132809,Selegiline
+132810,Selenium sulfide
+132811,Selexipag
+132812,Selsun Blue
+132813,Selzentry
+132814,Semprex-D
+132815,Senexon
+132816,Senna
+132817,Senna Lax
+132818,Senna Plus
+132819,Senna S
+132820,Senokot
+132821,Senokot S
+132822,Sensipar
+132823,Sensorcaine-MPF
+132824,Septra
+132825,Septra DS
+132826,Serax
+132827,Seroquel
+132828,Seroquel XR
+132829,Sertaconazole
+132830,Sertraline
+132831,Serzone
+132832,Sevelamer
+132833,Sharobel
+132834,Sildenafil
+132835,Silenor
+132836,Siliq
+132837,Silodosin
+132838,Silvadene
+132839,Silver
+132840,Silver sulfadiazine
+132841,Simbrinza
+132842,Simcor
+132843,Simeprevir
+132844,Simethicone
+132845,Simply Sleep
+132846,Simponi
+132847,Simponi Aria
+132848,Simvastatin
+132849,Sinemet
+132850,Sinemet CR
+132851,Sine-Off Maximum Strength
+132852,Sinequan
+132853,Singulair
+132854,Sipuleucel-T
+132855,Sitagliptin
+132856,Sitavig
+132857,Skeeter Stik
+132858,Skelaxin
+132859,Sklice
+132860,Skyla
+132861,Sleep Aid
+132862,Slippery elm
+132863,Slo-Niacin
+132864,Slow Fe
+132865,Smoothie Readi-Cat 2
+132866,SMZ-TMP DS
+132867,Sodium bicarbonate
+132868,Sodium biphosphate / sodium phosphate
+132869,Sodium chloride
+132870,Sodium hyaluronate
+132871,Sodium hypochlorite
+132872,Sodium oxybate
+132873,Sodium polystyrene sulfonate
+132874,Sofosbuvir
+132875,Sofosbuvir / velpatasvir
+132876,Solaraze
+132877,Solarcaine Burn Relief
+132878,Solarcaine First Aid Medicated Spray
+132879,Solifenacin
+132880,Solodyn
+132881,Solu-Medrol
+132882,Soma
+132883,Soma Compound
+132884,Soma Compound with Codeine
+132885,Somatropin
+132886,Sominex
+132887,Somnote
+132888,Sonata
+132889,Soolantra
+132890,Sorafenib
+132891,Soriatane
+132892,Sotalol
+132893,Sotalol Hydrochloride AF
+132894,Sovaldi
+132895,Spectazole
+132896,Spectracef
+132897,Spinosad
+132898,Spiriva
+132899,Spiriva Respimat
+132900,Spironolactone
+132901,Sporanox
+132902,Sprintec
+132903,Sprix
+132904,Sprycel
+132905,Sronyx
+132906,St. john's wort
+132907,Stadol
+132908,Stalevo
+132909,Stalevo 150
+132910,Stalevo 200
+132911,Stavzor
+132912,Staxyn
+132913,Stelara
+132914,Stelazine
+132915,Stendra
+132916,Sterapred DS
+132917,Stimate
+132918,Stiolto Respimat
+132919,Stivarga
+132920,Strattera
+132921,Streptokinase
+132922,Striant
+132923,Stribild
+132924,Striverdi Respimat
+132925,Stromectol
+132926,Sublimaze
+132927,Suboxone
+132928,Subsys
+132929,Subutex
+132930,Succinylcholine
+132931,Sucralfate
+132932,Sucroferric oxyhydroxide
+132933,Sudafed 12-Hour
+132934,Sudafed 24-Hour
+132935,Sudafed Congestion
+132936,Sudafed PE Pressure + Pain
+132937,Sudafed PE Severe Cold
+132938,Sular
+132939,Sulfacetamide sodium
+132940,Sulfacetamide sodium / sulfur
+132941,Sulfamethoxazole / trimethoprim
+132942,Sulfasalazine
+132943,Sulfatrim
+132944,Sulfazine
+132945,Sulfinpyrazone
+132946,Sulfur
+132947,Sulindac
+132948,Sumadan
+132949,Sumatriptan
+132950,Sumavel DosePro
+132951,Sunitinib
+132952,Supartz
+132953,Supprelin LA
+132954,Suprax
+132955,Suprep Bowel Prep Kit
+132956,Sustiva
+132957,Sutent
+132958,Suvorexant
+132959,Symax Duotab
+132960,Symbicort
+132961,Symbyax
+132962,Symlin
+132963,SymlinPen 60
+132964,Symmetrel
+132965,Synalar
+132966,Synarel
+132967,Synjardy
+132968,Synthroid
+132969,Synvisc
+132970,Synvisc-One
+132971,Systane
+132972,Systane Balance
+132973,Systane Ultra
+132974,Taclonex
+132975,Taclonex Scalp
+132976,Tacrolimus
+132977,Tadalafil
+132978,Tafinlar
+132979,Tafluprost
+132980,Tagamet
+132981,Take Action
+132982,Talacen
+132983,Taltz
+132984,Talwin
+132985,Talwin Nx
+132986,Tambocor
+132987,Tamiflu
+132988,Tamoxifen
+132989,Tamsulosin
+132990,Tandem
+132991,Tandem DHA
+132992,Tanzeum
+132993,Tapazole
+132994,Tapentadol
+132995,Tarceva
+132996,Targiniq ER
+132997,Targretin
+132998,Tarina Fe 1 / 20
+132999,Tarka
+133000,Tasigna
+133001,Tavaborole
+133002,Taxol
+133003,Taxotere
+133004,Taytulla
+133005,Tazarotene
+133006,Tazorac
+133007,Taztia XT
+133008,T-Diet
+133009,Tecfidera
+133010,Tegaserod
+133011,Tegretol
+133012,Tegretol XR
+133013,Tekturna
+133014,Tekturna HCT
+133015,Telaprevir
+133016,Telmisartan
+133017,Temazepam
+133018,Temodar
+133019,Temovate
+133020,Temozolomide
+133021,Temsirolimus
+133022,Tenex
+133023,Tenofovir
+133024,Tenoretic 50
+133025,Tenormin
+133026,Tenuate
+133027,Tenuate Dospan
+133028,Terazol
+133029,Terazol 7
+133030,Terazosin
+133031,Terbinafine
+133032,Terbutaline
+133033,Terconazole
+133034,Teriflunomide
+133035,Teriparatide
+133036,Tesamorelin
+133037,Tessalon
+133038,Tessalon Perles
+133039,Testim
+133040,Testopel
+133041,Testosterone
+133042,Tetracaine
+133043,Tetracycline
+133044,Tetrahydrozoline
+133045,Tetrahydrozoline / zinc sulfate
+133046,Tev-Tropin
+133047,Theo-24
+133048,Theophylline
+133049,TheraTears
+133050,TheraTears Nutrition
+133051,Thiopental
+133052,Thioridazine
+133053,Thiothixene
+133054,Thorazine
+133055,Thyroid desiccated
+133056,Tiagabine
+133057,Tiazac
+133058,Ticagrelor
+133059,Tigan
+133060,Tiger Balm
+133061,Tikosyn
+133062,Timolol
+133063,Timoptic
+133064,Timoptic Ocudose
+133065,Tindamax
+133066,Tinidazole
+133067,Tinzaparin
+133068,Tioconazole
+133069,Tiotropium
+133070,Tirosint
+133071,Tivicay
+133072,Tizanidine
+133073,TobraDex
+133074,Tobramycin
+133075,Tobrex
+133076,Tocilizumab
+133077,Todays Health Nasal  Relief Extra Moisturizing
+133078,Tofacitinib
+133079,Tofranil
+133080,Tolak
+133081,Tolmetin
+133082,Tolnaftate
+133083,Tolterodine
+133084,Topamax
+133085,Topical Anesthetic Dental Gel
+133086,Topicort
+133087,Topicort LP
+133088,Topiragen
+133089,Topiramate
+133090,Toprol-XL
+133091,Toradol
+133092,Toradol IV / IM
+133093,Torisel
+133094,Torsemide
+133095,Toujeo
+133096,Toujeo Solostar
+133097,Toviaz
+133098,Tracleer
+133099,Tradjenta
+133100,Tramadol
+133101,Trametinib
+133102,Trandolapril
+133103,Trandolapril / verapamil
+133104,Tranexamic acid
+133105,Transderm-Scop
+133106,Tranxene
+133107,Tranxene SD
+133108,Tranylcypromine
+133109,Trastuzumab
+133110,Travel-Eze
+133111,Travoprost
+133112,Trazodone
+133113,Treanda
+133114,Trelstar
+133115,Trelstar LA
+133116,Trental
+133117,Treprostinil
+133118,Tresiba
+133119,Tretinoin
+133120,Tretin-X
+133121,Treximet
+133122,Trezix
+133123,Triamcinolone
+133124,Triamterene
+133125,Triavil
+133126,Triazolam
+133127,Tribenzor
+133128,TriCor
+133129,Tri-Estarylla
+133130,Trifluoperazine
+133131,Trihexyphenidyl
+133132,Trilafon
+133133,Trileptal
+133134,Tri-Linyah
+133135,Trilipix
+133136,Tri-Lo-Estarylla
+133137,Tri-Lo-Marzia
+133138,Tri-Lo-Sprintec
+133139,Tri-Luma
+133140,Trimethobenzamide
+133141,Trimethoprim
+133142,TriNessa
+133143,TriNessa Lo
+133144,Trintellix
+133145,Triple Antibiotic
+133146,Triple Paste
+133147,Tri-Previfem
+133148,Triprolidine
+133149,Triptorelin
+133150,Tri-Sprintec
+133151,Triumeq
+133152,Trivora
+133153,Trixaicin HP
+133154,Trizivir
+133155,Trocaine
+133156,Trokendi XR
+133157,Trolamine salicylate
+133158,Tronolane Anesthetic for Hemorrhoids
+133159,Tropicamide
+133160,Trospium
+133161,Trulance
+133162,Trulicity
+133163,Trusopt
+133164,Truvada
+133165,Tryptophan
+133166,Tudorza Pressair
+133167,Tums Regular Strength
+133168,Tums Smoothies
+133169,Turmeric
+133170,TussiCaps
+133171,Tussigon
+133172,Tussionex Pennkinetic
+133173,Twynsta
+133174,Tylenol
+133175,Tylenol 8 Hour
+133176,Tylenol Arthritis Pain
+133177,Tylenol PM
+133178,Tylenol with Codeine
+133179,Tylenol with Codeine #3
+133180,Tylenol with Codeine #4
+133181,Tylox
+133182,Tysabri
+133183,Tyvaso
+133184,Ubiquinone
+133185,Uceris
+133186,Ulesfia
+133187,Ulipristal
+133188,Uloric
+133189,Ultracet
+133190,Ultram
+133191,Ultram ER
+133192,Ultram ODT
+133193,Ultravate
+133194,Umeclidinium
+133195,Umeclidinium / vilanterol
+133196,Unasyn
+133197,Undecylenic acid
+133198,Uniphyl
+133199,Uniretic
+133200,Unisom SleepGels
+133201,Unisom SleepMelts
+133202,Unisom SleepTabs
+133203,Unithroid
+133204,Univasc
+133205,Uptravi
+133206,Urea
+133207,Urecholine
+133208,Uribel
+133209,Uricalm
+133210,Urised
+133211,Urispas
+133212,Uristat
+133213,Uroqid-Acid No2
+133214,Uroxatral
+133215,Urso
+133216,Urso Forte
+133217,Ursodiol
+133218,Ustekinumab
+133219,Uta
+133220,Vagifem
+133221,Vagistat-1
+133222,Valacyclovir
+133223,Valcyte
+133224,Valdecoxib
+133225,Valerian
+133226,Valganciclovir
+133227,Valium
+133228,Valproic acid
+133229,Valsartan
+133230,Valtrex
+133231,Valturna
+133232,Vanatab DX
+133233,Vanatrip
+133234,Vancocin
+133235,Vancocin HCl
+133236,Vancomycin
+133237,Vandazole
+133238,Vaniqa
+133239,Vanquish
+133240,Vanspar
+133241,Vantin
+133242,Vaprisol
+133243,Vardenafil
+133244,Varenicline
+133245,Varubi
+133246,Vascepa
+133247,Vasculera
+133248,Vasodilan
+133249,Vasotec
+133250,Vectibix
+133251,Vectical
+133252,Vedolizumab
+133253,Velcade
+133254,Velivet
+133255,Velphoro
+133256,Veltin
+133257,Vemurafenib
+133258,Venlafaxine
+133259,Venofer
+133260,Ventolin
+133261,Ventolin HFA
+133262,Veramyst
+133263,Verapamil
+133264,Verdeso
+133265,Verelan
+133266,Verelan PM
+133267,Versed
+133268,Vesanoid
+133269,VESIcare
+133270,Vestura
+133271,Viagra
+133272,Viberzi
+133273,Vibramycin
+133274,Vicks Dayquil Cold & Flu Relief
+133275,Vicks Formula 44
+133276,Vicks Nyquil D Cold and Flu Nighttime Relief
+133277,Vicks QlearQuil Nighttime Allergy Relief
+133278,Vicks Sinex 12-Hour Decongestant Nasal Spray
+133279,Vicks Sinex Nasal Spray (old formulation)
+133280,Vicodin
+133281,Vicodin ES
+133282,Vicodin HP
+133283,Vicoprofen
+133284,Victoza
+133285,Victrelis
+133286,Vidaza
+133287,Viekira Pak
+133288,Vienva
+133289,Vigamox
+133290,Viibryd
+133291,Vilazodone
+133292,Vimovo
+133293,Vimpat
+133294,Vincasar PFS
+133295,Vincristine
+133296,Viorele
+133297,Viramune
+133298,Viread
+133299,Virtussin A / C
+133300,Visine Original
+133301,Visine Totality Multi-Symptom Relief
+133302,VisRx Dose Pack
+133303,Vistaril
+133304,Vitafol Ultra
+133305,Vitafol-OB+DHA
+133306,Vitamin B12
+133307,Vitamin B2
+133308,Vitamin B6
+133309,Vitamin C
+133310,Vitamin D2
+133311,Vitamin D3
+133312,Vitamin e
+133313,Vitapap
+133314,Vivactil
+133315,Vivaglobin
+133316,Vivarin
+133317,Vivelle
+133318,Vivelle-Dot
+133319,Vivitrol
+133320,Voltaren
+133321,Voltaren Gel
+133322,Voltaren-XR
+133323,Vontrol
+133324,Vortioxetine
+133325,Vospire ER
+133326,Votrient
+133327,Vraylar
+133328,Vusion
+133329,Vytorin
+133330,Vyvanse
+133331,Wal-finate
+133332,Warfarin
+133333,Welchol
+133334,Wellbutrin
+133335,Wellbutrin SR
+133336,Wellbutrin XL
+133337,Wera
+133338,Westcort
+133339,Westhroid
+133340,WinRho SDF
+133341,WP Thyroid
+133342,Xalatan
+133343,Xalkori
+133344,Xanax
+133345,Xanax XR
+133346,Xarelto
+133347,Xartemis XR
+133348,Xeljanz
+133349,Xeljanz XR
+133350,Xeloda
+133351,Xenical
+133352,Xerac AC
+133353,Xgeva
+133354,Xiaflex
+133355,Xifaxan
+133356,Xigduo XR
+133357,Xiidra
+133358,Xodol
+133359,Xolair
+133360,Xolegel
+133361,Xopenex
+133362,Xopenex HFA
+133363,Xtampza ER
+133364,Xtandi
+133365,Xulane
+133366,X-Viate
+133367,Xylocaine Jelly
+133368,Xylometazoline
+133369,Xyrem
+133370,Xyzal
+133371,Yasmin
+133372,Yaz
+133373,Yohimbine
+133374,Yuvafem
+133375,Zaditor
+133376,Zafirlukast
+133377,Zaleplon
+133378,Zanaflex
+133379,Zanamivir
+133380,Zantac
+133381,Zantac 150
+133382,Zarah
+133383,Zarontin
+133384,Zaroxolyn
+133385,Zeasorb-AF Drying Gel
+133386,Zecuity
+133387,Zegerid
+133388,Zegerid OTC
+133389,Zejula
+133390,Zelapar
+133391,Zelboraf
+133392,Zelnorm
+133393,Zemaira
+133394,Zenatane
+133395,Zenchent
+133396,Zenpep
+133397,Zenzedi
+133398,Zepatier
+133399,Zestoretic
+133400,Zestril
+133401,Zetia
+133402,Zetran
+133403,Ziac
+133404,Ziana
+133405,Zicam Extreme Congestion Relief
+133406,Ziconotide
+133407,Zileuton
+133408,Zinc gluconate
+133409,Zinc oxide
+133410,Zinc sulfate
+133411,Zioptan
+133412,Ziprasidone
+133413,Zipsor
+133414,Zirgan
+133415,Zithromax
+133416,Zocor
+133417,Zofran
+133418,Zofran ODT
+133419,Zohydro ER
+133420,Zoladex
+133421,Zoledronic acid
+133422,Zolmitriptan
+133423,Zoloft
+133424,Zolpidem
+133425,Zolpimist
+133426,Zometa
+133427,Zomig
+133428,Zomig-ZMT
+133429,Zonegran
+133430,Zonisamide
+133431,Zorvolex
+133432,Zostavax
+133433,Zoster vaccine live
+133434,Zostrix
+133435,Zostrix Diabetic Foot Pain
+133436,Zosyn
+133437,Zovia
+133438,Zovia 1 / 35
+133439,Zovirax
+133440,Zovirax Cream
+133441,Zovirax Ointment
+133442,Zubsolv
+133443,Zurampic
+133444,Zutripro
+133445,Zyban
+133446,Zyclara
+133447,Zylet
+133448,Zyloprim
+133449,Zymar
+133450,Zymine
+133451,Zyprexa
+133452,Zyprexa Intramuscular
+133453,Zyprexa Zydis
+133454,Zyrtec
+133455,Zyrtec-D
+133456,Zyrtec-D 12 Hour
+133457,Zytiga
+133458,Zyvox
+133459,ZzzQuil

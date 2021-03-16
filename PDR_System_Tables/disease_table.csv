@@ -1,0 +1,656 @@
+disease_id,disease
+140001,AIDS
+140002,Alzheimer
+140003,Anaplasmosis
+140004,Ancylostoma
+140005,ADHD
+140006,Babesia
+140007,Bacillus anthracis
+140008,Balantidiasis
+140009,Blood clot
+140010,Seizure
+140011,Botulism
+140012,Blood Disorders
+140013,Bronchitis
+140014,Brucellosis
+140015,BSE
+140016,Q fever
+140017,Obesity
+140018,Malaria
+140019,Marine Toxins
+140020,Meningtis
+140021,Measles
+140022,Salmonella
+140023,Scabies
+140024,Left Ventricular Dysfunction
+140025,ADHD
+140026,Birth Control
+140027,Opiate Dependence
+140028,Benign Prostatic Hyperplasia
+140029,Emergency Contraception
+140030,Bipolar Disorde
+140031,Epilepsy
+140032,Migraine Prevention
+140033,Depression
+140034,Crohn's Disease
+140035,Cough
+140036,Obesity
+140037,Urinary Tract Infection
+140038,ibromyalgia
+140039,Chronic Myelogenous Leukemia
+140040,HIV Infection
+140041,Insomnia
+140042,Rheumatoid Arthritis
+140043,Vaginal Yeast Infection
+140044,Chlamydia Infection
+140045,Hirsutism
+140046,Panic Disorde
+140047,Migraine
+140048,Atrial Flutte
+140049,Pain
+140050,Irritable Bowel Syndrome
+140051,Osteoarthritis
+140052,Constipation
+140053,Bowel Preparation
+140054,Psychosis
+140055,Muscle Spasm
+140056,Hepatitis C
+140057,Overactive Bladde
+140058,"Diabetes, Type 2"
+140059,"Asthma, Maintenance"
+140060,Non-Small Cell Lung Cance
+140061,Schizophrenia
+140062,Dysuria
+140063,Smoking Cessation
+140064,Anxiety
+140065,Acne
+140066,emale Infertility
+140067,"Constipation, Acute"
+140068,"Constipation, Drug Induced"
+140069,Erectile Dysfunction
+140070,Trigeminal Neuralgia
+140071,Underactive Thyroid
+140072,Chronic Pain
+140073,Atrophic Vaginitis
+140074,Skin and Structure Infection
+140075,Tinnitus
+140076,Major Depressive Disorde
+140077,Anxiety and Stress
+140078,Rosacea
+140079,High Blood Pressure
+140080,
+140081,Restless Legs Syndrome
+140082,Osteolytic Bone Metastases of Solid Tumors
+140083,Bronchitis
+140084,Skin or Soft Tissue Infection
+140085,Obsessive Compulsive Disorde
+140086,Endometriosis
+140087,Keratoconjunctivitis Sicca
+140088,Breakthrough Pain
+140089,Seizures
+140090,Neuropathic Pain
+140091,Sedation
+140092,Menstrual Disorders
+140093,Allergic Rhinitis
+140094,Anesthesia
+140095,Undifferentiated Connective Tissue Disease
+140096,"Diabetes, Type 1"
+140097,Abnormal Uterine Bleeding
+140098,Weight Loss
+140099,"Constipation, Chronic"
+140100,"Breast Cancer, Metastatic"
+140101,Period Pain
+140102,Helicobacter Pylori Infection
+140103,Atrial Fibrillation
+140104,Uterine Fibroids
+140105,
+140106,Kidney Infections
+140107,Generalized Anxiety Disorde
+140108,Asthma
+140109,Postmenopausal Symptoms
+140110,High Cholesterol
+140111,"Hypogonadism, Male"
+140112,Hyperthyroidism
+140113,Back Pain
+140114,Anaplastic Oligodendroglioma
+140115,Sjogren's Syndrome
+140116,"Asthma, acute"
+140117,Hot Flashes
+140118,Pediatric Growth Hormone Deficiency
+140119,"Herpes Simplex, Suppression"
+140120,Bacterial Infection
+140121,Bursitis
+140122,Diaper Rash
+140123,Systemic Mastocytosis
+140124,Trichotillomania
+140125,Hashimoto's disease
+140126,Eczema
+140127,Dental Abscess
+140128,Headache
+140129,Hypersomnia
+140130,Xerostomia
+140131,Breast Cance
+140132,Sore Throat
+140133,Barrett's Esophagus
+140134,Pain/Feve
+140135,Diverticulitis
+140136,Sinusitis
+140137,Polycystic Ovary Syndrome
+140138,Influenza
+140139,"Hypothyroidism, After Thyroid Removal"
+140140,"Onychomycosis, Toenail"
+140141,Progesterone Insufficiency
+140142,Hypomagnesemia
+140143,GERD
+140144,"Nausea/Vomiting, Postoperative"
+140145,Herpes Simplex
+140146,Gastroparesis
+140147,"Gout, Acute"
+140148,Motion Sickness
+140149,Multiple Sclerosis
+140150,Autism
+140151,Otitis Media
+140152,Upper Respiratory Tract Infection
+140153,Surgical Prophylaxis
+140154,Psoriatic Arthritis
+140155,Erosive Esophagitis
+140156,Premature Ventricular Depolarizations
+140157,Stomach Ulce
+140158,Nausea/Vomiting
+140159,Light Anesthesia
+140160,Angina Pectoris Prophylaxis
+140161,Hairy Cell Leukemia
+140162,Paranoid Disorde
+140163,Prostatitis
+140164,Extrapyramidal Reaction
+140165,mance Anxiety
+140166,Night Terrors
+140167,"High Cholesterol, Familial Heterozygous"
+140168,Spondyloarthritis
+140169,Clostridial Infection
+140170,Dermatomyositis
+140171,Bronchiectasis
+140172,Nasal Congestion
+140173,Benign Essential Trem
+140174,Angina
+140175,Brain Tumor
+140176,Impetig
+140177,"Conjunctivitis, Bacterial"
+140178,Post Traumatic Stress Disorde
+140179,Alcohol Withdrawal
+140180,Psoriasis
+140181,Cold Sores
+140182,Hyperhidrosis
+140183,Gastrointestinal Stromal Tum
+140184,Ankylosing Spondylitis
+140185,Hemorrhoids
+140186,Tetanus
+140187,Schizoaffective Disorde
+140188,Not Listed / Othe
+140189,Rhinitis
+140190,Oral Thrush
+140191,Hyperlipoproteinemia
+140192,Neutropenia Associated with Chemotherapy
+140193,Osteoporosis
+140194,Reflex Sympathetic Dystrophy Syndrome
+140195,Urticaria
+140196,Narcolepsy
+140197,Systemic Lupus Erythematosus
+140198,Ulcerative Colitis
+140199,Adult Human Growth Hormone Deficiency
+140200,Bacterial Vaginitis
+140201,"COPD, Maintenance"
+140202,Anorexia
+140203,TSH Suppression
+140204,"Breast Cancer, Adjuvant"
+140205,Glaucoma
+140206,Cough and Nasal Congestion
+140207,"Breast Cancer, Prevention"
+140208,Inflammatory Conditions
+140209,Urinary Incontinence
+140210,Gout
+140211,Bladder Infection
+140212,Human Papillomavirus Prophylaxis
+140213,Glioblastoma Multiforme
+140214,Strep Throat
+140215,Bacterial Skin Infection
+140216,Hereditary Angioedema
+140217,Cold Symptoms
+140218,Labor Pain
+140219,Dry Skin
+140220,Diabetes Insipidus
+140221,Methicillin-Resistant Staphylococcus Aureus Infection
+140222,Borderline Personality Disorde
+140223,Amenorrhea
+140224,Pneumonia
+140225,Seborrheic Dermatitis
+140226,Interstitial Cystitis
+140227,Malaria Prevention
+140228,Prevention of Dental Caries
+140229,Herbal Supplementation
+140230,Plaque Psoriasis
+140231,Raynaud's Syndrome
+140232,Addison's Disease
+140233,Prostate Cance
+140234,Allergies
+140235,Opioid-Induced Constipation
+140236,Peripheral T-cell Lymphoma
+140237,Pathological Hypersecretory Conditions
+140238,Diarrhea
+140239,Seasonal Allergic Conjunctivitis
+140240,Opioid Overdose
+140241,Spondylolisthesis
+140242,Shift Work Sleep Disorde
+140243,Obstructive Sleep Apnea/Hypopnea Syndrome
+140244,Nausea/Vomiting of Pregnancy
+140245,Mucositis
+140246,"Ulcerative Colitis, Active"
+140247,Head Lice
+140248,Tonsillitis/Pharyngitis
+140249,Pseudotumor Cerebri
+140250,Parkinson's Disease
+140251,Sciatica
+140252,Cance
+140253,Bacterial Endocarditis Prevention
+140254,"Diarrhea, Chronic"
+140255,Hypertensive Emergency
+140256,Keratosis
+140257,Ovarian Cysts
+140258,Behcet's Disease
+140259,Chronic Idiopathic Constipation
+140260,Folic Acid Deficiency
+140261,Chronic Fatigue Syndrome
+140262,Basal Cell Carcinoma
+140263,Cataplexy
+140264,"Crohn's Disease, Maintenance"
+140265,Diabetic Peripheral Neuropathy
+140266,Arrhythmia
+140267,Primary Ovarian Failure
+140268,Influenza Prophylaxis
+140269,Agitated State
+140270,Heart Failure
+140271,Fatigue
+140272,Opiate Withdrawal
+140273,"Endometrial Hyperplasia, Prophylaxis"
+140274,Immunosuppression
+140275,Dystonia
+140276,Alopecia
+140277,Vulvodynia
+140278,Premenstrual Dysphoric Disorde
+140279,Alcohol Dependence
+140280,Myasthenia Gravis
+140281,Social Anxiety Disorde
+140282,Atopic Dermatitis
+140283,Schistosoma japonicum
+140284,Sinus Symptoms
+140285,Oral and Dental Conditions
+140286,Dermatitis
+140287,Eye Redness
+140288,Warts
+140289,Menorrhagia
+140290,Seizure Prevention
+140291,Ophthalmic Surgery
+140292,Skin Rash
+140293,Condylomata Acuminata
+140294,NSAID-Induced Ulcer Prophylaxis
+140295,Tinea Versicol
+140296,Peripheral Neuropathy
+140297,Deep Vein Thrombosis
+140298,Chronic Inflammatory Demyelinating Polyradiculoneuropathy
+140299,Heart Attack
+140300,"Pulmonary Embolism, Recurrent Event"
+140301,Light Sedation
+140302,Acute Lymphoblastic Leukemia
+140303,Hyperprolactinemia
+140304,Indigestion
+140305,Hepatitis B
+140306,Dysautonomia
+140307,Status Epilepticus
+140308,Postpartum Depression
+140309,Multiple Myeloma
+140310,Prevention of Hypokalemia
+140311,Edema
+140312,Urinary Retention
+140313,Prevention of Thromboembolism in Atrial Fibrillation
+140314,Cluster Headaches
+140315,"Sexual Dysfunction, SSRI Induced"
+140316,Dermatitis Herpetiformis
+140317,Temporomandibular Joint Disorde
+140318,"Burns, External"
+140319,Actinic Keratosis
+140320,Pharyngitis
+140321,"Melanoma, Metastatic"
+140322,Lyme Disease
+140323,Dry Eye Disease
+140324,Allergic Reactions
+140325,Hypertriglyceridemia
+140326,Pruritus
+140327,Carcinoid Tum
+140328,Muscle Pain
+140329,Colorectal Cance
+140330,Vitamin/Mineral Supplementation during Pregnancy/Lactation
+140331,"Nausea/Vomiting, Chemotherapy Induced"
+140332,Women (oxybutynin)
+140333,Primary Immunodeficiency Syndrome
+140334,New Daily Persistent Headache
+140335,Pneumococcal Disease Prophylaxis
+140336,Burning Mouth Syndrome
+140337,Urinary Tract Stones
+140338,Pseudobulbar Affect
+140339,Pathological Hypersecretory Conditions
+140340,Eye Redness/Itching
+140341,"Deep Vein Thrombosis, First Event"
+140342,Pulmonary Hypertension
+140343,Malaria
+140344,Sarcoidosis
+140345,Dietary Supplementation
+140346,Bulimia
+140347,Tendonitis
+140348,Nasal Polyps
+140349,Hypokalemia
+140350,"Anemia, Sickle Cell"
+140351,Uveitis
+140352,Streptococcal Infection
+140353,Perimenopausal Symptoms
+140354,Asperger Syndrome
+140355,Tinea Corporis
+140356,Mania
+140357,Renal Cell Carcinoma
+140358,COPD
+140359,Biliary Cirrhosis
+140360,Vertig
+140361,Reversal of Opioid Sedation
+140362,Non-Hodgkin's Lymphoma
+140363,"High Cholesterol, Familial Homozygous"
+140364,Periodic Limb Movement Disorde
+140365,Supraventricular Tachycardia
+140366,Hypoestrogenism
+140367,Juvenile Idiopathic Arthritis
+140368,Swine Flu
+140369,Giardiasis
+140370,Binge Eating Disorde
+140371,Tourette's Syndrome
+140372,Trichomoniasis
+140373,Facial Wrinkles
+140374,Antiphospholipid Syndrome
+140375,Pulmonary Embolism
+140376,"Conjunctivitis, Allergic"
+140377,Avian Influenza
+140378,Wegener's Granulomatosis
+140379,Hemangioma
+140380,Nocturnal Leg Cramps
+140381,Thyroid Suppression Test
+140382,Muscle Twitching
+140383,Pupillary Dilation
+140384,Lennox-Gastaut Syndrome
+140385,Opiate Adjunct
+140386,Postoperative Pain
+140387,Candida Urinary Tract Infection
+140388,Cerebral Spasticity
+140389,Lipodystrophy
+140390,Androgenetic Alopecia
+140391,Computed Tomography
+140392,Mitral Valve Prolapse
+140393,Vitamin D Deficiency
+140394,"Glaucoma, Open Angle"
+140395,Endoscopy or Radiology Premedication
+140396,Alzheimer's Disease
+140397,Gouty Arthritis
+140398,Paroxysmal Supraventricular Tachycardia
+140399,"Deep Vein Thrombosis, Prophylaxis"
+140400,Gaucher Disease
+140401,Lymphocytic Colitis
+140402,Pancreatic Cance
+140403,Cystic Fibrosis
+140404,Noninfectious Colitis
+140405,Thromboembolic Stroke Prophylaxis
+140406,Nephrocalcinosis
+140407,Iron Deficiency Anemia
+140408,Platelet Aggregation Inhibition
+140409,Hiccups
+140410,Sleep Paralysis
+140411,Bronchospasm Prophylaxis
+140412,Chronic Spasticity
+140413,Rejection Prophylaxis
+140414,Post-Cholecystectomy Diarrhea
+140415,Postherpetic Neuralgia
+140416,"Insomnia, Stimulant-Associated"
+140417,"COPD, Acute"
+140418,Herpes Simplex Dendritic Keratitis
+140419,Oophorectomy
+140420,Cyclic Vomiting Syndrome
+140421,Chronic Lymphocytic Leukemia
+140422,"Lyme Disease, Arthritis"
+140423,Pseudomembranous Colitis
+140424,Conjunctivitis
+140425,"Delayed Puberty, Male"
+140426,Ascariasis
+140427,Intraocular Hypertension
+140428,Aphthous Ulce
+140429,"Ulcerative Colitis, Maintenance"
+140430,Melasma
+140431,"Lyme Disease, Neurologic"
+140432,Acute Promyelocytic Leukemia
+140433,Herpes Zoste
+140434,Bartonellosis
+140435,Cervical Dystonia
+140436,Labor Induction
+140437,Human Papilloma Virus
+140438,Chronic Pancreatitis
+140439,Polycythemia Vera
+140440,Cyclothymic Disorder
+140441,Dermatological Disorders
+140442,Lewy Body Dementia
+140443, Mediterranean Fever
+140444,Neurosurgery
+140445,Gastroenteritis
+140446,Macular Edema
+140447,Tinea Pedis
+140448,Hypokalemic Periodic Paralysis
+140449,Diagnosis and Investigation
+140450,Varicose Veins
+140451,Gas
+140452,Neuralgia
+140453,Local Anesthesia
+140454,Varicose Veins
+140455,Acute Coronary Syndrome
+140456,Aspiration Pneumonia
+140457,Idiopathic Thrombocytopenic Purpura
+140458,"Onychomycosis, Fingernail"
+140459,Photoaging of the Skin
+140460,Premature Lab
+140461,Precocious Puberty
+140462,Prevention of Bladder infection
+140463,Seasonal Affective Disorde
+140464,Diabetic Kidney Disease
+140465,"Crohn's Disease, Acute"
+140466,Insulin Resistance Syndrome
+140467,Pudendal Neuralgia
+140468,Reiter's Syndrome
+140469,Cachexia
+140470,Amyotrophic Lateral Sclerosis
+140471,Body Dysmorphic Disorde
+140472,"Prosthetic Heart Valves, Mechanical Valves - Thrombosis Prophylaxis"
+140473,Dandruff
+140474,Vitamin B12 Deficiency
+140475,Bone infection
+140476,"Prosthetic Heart Valves, Tissue Valves - Thrombosis Prophylaxis"
+140477,Iritis
+140478,Allergic Urticaria
+140479,Cardiovascular Risk Reduction
+140480,Giant Cell Tumor of Bone
+140481,Babesiosis
+140482,Secondary Hyperparathyroidism
+140483,Hypoparathyroidism
+140484,Performance Anxiety
+140485,Abortion
+140486,Skin Cance
+140487,Ovulation Induction
+140488,Liver Magnetic Resonance Imaging
+140489,Vitamin/Mineral Supplementation and Deficiency
+140490,Hyperkalemia
+140491,"Herpes Simplex, Mucocutaneous/Immunocompetent Host"
+140492,Still's Disease
+140493,Anemia Associated with Chronic Renal Failure
+140494,Hyperphosphatemia of Renal Failure
+140495,Dissociative Identity Disorde
+140496,Anal Fissure and Fistula
+140497,Dementia
+140498,"Herpes Simplex, Mucocutaneous/Immunocompromised Host"
+140499,Scabies
+140500,Ocular Rosacea
+140501,Endometrial Cance
+140502,Transient Ischemic Attack
+140503,Granuloma Annulare
+140504,Traveler's Diarrhea
+140505,Candidemia
+140506,Hidradenitis Suppurativa
+140507,Hypoactive Sexual Desire Disorde
+140508,"Epicondylitis, Tennis Elbow"
+140509,Nightmares
+140510,Dientamoeba fragilis
+140511,Ventricular Tachycardia
+140512,Dumping Syndrome
+140513,Myelodysplastic Syndrome
+140514,Hypodermoclysis
+140515,Frozen Shoulder
+140516,Topical Disinfection
+140517,Perioral Dermatitis
+140518,Agitation
+140519,Intermittent Claudication
+140520,Prevention of Osteoporosis
+140521,Leukemia
+140522,Dermatitis Herpeti
+140523,Pelvic Inflammatory Disease
+140524,Eosinophilic Esophagitis
+140525,"Hyperlipoproteinemia Type IIa, Elevated LDL"
+140526,Endometrial Hyperplasia
+140527,Varicella-Zoste
+140528,Peptic Ulce
+140529,Chronic Myofascial Pain
+140530,Enterocolitis
+140531,Secondary Cutaneous Bacterial Infections
+140532,Syringomyelia
+140533,Postoperative Ocular Inflammation
+140534,Persistent Depressive Disorde
+140535,Otitis Externa
+140536,"Organ Transplant, Rejection Prophylaxis"
+140537,Intermittent Explosive Disorde
+140538,Dermatophytosis
+140539,Inflammatory Bowel Disease
+140540,Porphyria
+140541,Anemia
+140542,Hyperuricemia Secondary to Chemotherapy
+140543,Wolff-Parkinson-White Syndrome
+140544,eve
+140545,Ectopic Pregnancy
+140546,Thyroid Cance
+140547,"Tuberculosis, Latent"
+140548,Nasal Carriage of Staphylococcus aureus
+140549,Systemic Candidiasis
+140550,Ear Wax Impaction
+140551,Hepatocellular Carcinoma
+140552,Dyspareunia
+140553,Intraabdominal Infection
+140554,Tic Disorde
+140555,Head and Neck Cance
+140556,Klinefelter Syndrome
+140557,Rhinorrhea
+140558,Soft Tissue Sarcoma
+140559,Diabetic Macular Edema
+140560,Menopausal Disorders
+140561,Anesthetic Adjunct
+140562,Tinea Cruris
+140564,Ischemic Stroke
+140565,Malignant Glioma
+140566,Thrombocythemia
+140567,Atrophic Urethritis
+140568,Systemic Sclerosis
+140569,Macular Degeneration
+140570,AIDS Related Wasting
+140571,Hemophilia A
+140572,Osteolytic Bone Lesions of Multiple Myeloma
+140573,Autoimmune Hemolytic Anemia
+140574,ailure to Thrive
+140575,Strongyloidiasis
+140576,Vitamin K Deficiency
+140577,Ulcerative Proctitis
+140578,Premenstrual Syndrome
+140579,Dermatologic Lesion
+140580,Primary Hyperaldosteronism
+140581,Lactose Intolerance
+140582,Anal Itching
+140583,amilial Cold Autoinflammatory Syndrome
+140584,Duodenal Ulce
+140585,"Tuberculosis, Prophylaxis"
+140586,Neurosis
+140587,Turner's Syndrome
+140588,NSAID-Induced Gastric Ulce
+140589,CNS Magnetic Resonance Imaging
+140590,Atherosclerosis
+140591,Deep Vein Thrombosis Prophylaxis after Hip Replacement Surgery
+140592,Gastritis/Duodenitis
+140593,"Diarrhea, Acute"
+140594,Costochondritis
+140595,Portal Hypertension
+140596,Glaucoma/Intraocular Hypertension
+140597,Toothache
+140598,Benzodiazepine Withdrawal
+140599,m Pain Disorde
+140600,Esophageal Candidiasis
+140601,Deep Vein Thrombosis Prophylaxis after Knee Replacement Surgery
+140602,Peripheral Arterial Disease
+140603,"Deep Vein Thrombosis, Recurrent Event"
+140604,"Pseudogout, Prophylaxis"
+140605,Lichen Planus
+140606,CMV Prophylaxis
+140607,Croup
+140608,Neuritis
+140609,Typhoid Feve
+140610,Tardive Dyskinesia
+140611,Ichthyosis
+140612,Juvenile Rheumatoid Arthritis
+140613,B12 Nutritional Deficiency
+140614,"Hyperlipoproteinemia Type IV, Elevated VLDL"
+140615,Primary Nocturnal Enuresis
+140616,Expectoration
+140617,Dercum's Disease
+140618,Cutaneous Candidiasis
+140619,Gingivitis
+140620,Q Feve
+140621,Hyperekplexia
+140622,Postural Orthostatic Tachycardia Syndrome
+140623,Niacin Deficiency
+140624,Dietary Fiber Supplementation
+140625,Nephrotic Syndrome
+140626,Pinworm Infection (Enterobius vermicularis)
+140627,Pancreatic Exocrine Dysfunction
+140628,"Nausea/Vomiting, Radiation Induced"
+140629,Schilling Test
+140630,Mild Cognitive Impairment
+140631,"Ischemic Stroke, Prophylaxis"
+140632,Primary Hyperaldosteronism Diagnosis
+140633,"Gonococcal Infection, Uncomplicated"
+140634,Ovarian Cance
+140635,Eyelash Hypotrichosis
+140636,Meniere's Disease
+140637,Tinea Capitis
+140638,Abdominal Distension
+140639,Lichen Sclerosus
+140640,"Pulmonary Embolism, First Event"
+140641,Renal Transplant
+140642,"Gout, Prophylaxis"
+140643,von Willebrand's Disease
+140644,Prevention of Atherothrombotic Events
+140645,Small Fiber Neuropathy
+140646,"Pulmonary Embolism, First Event"
+140647,Postpartum Breast Pain
+140648,Peyronie's Disease
+140649,Autoimmune Hepatitis
+140650,llicular Lymphoma
+140651,Auditory Processing Disorde
+140652,"Herpes Zoster, Prophylaxis"
+140653,Submental Fullness
+140654,Lactation Augmentation
+140655,Radionuclide Myocardial Perfusion Study
+140656,Prevention of Cardiovascular Disease
